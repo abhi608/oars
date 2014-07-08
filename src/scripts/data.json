@@ -1,8 +1,4 @@
-'use strict';
-
-angular.module('data', [])
-    .service('courseData', [function () {
-        return [
+[
     {
         'Course No': 'AE201A',
         'Department': 'AE',
@@ -7073,5 +7069,4 @@ angular.module('data', [])
         'Title': 'MANUFACTURING PROCESSES II',
         'Units': '(L-T-P-D-U)         1-0-3-0-6'
     }
-];
-    }]);
+]

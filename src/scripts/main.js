@@ -1,6 +1,12 @@
 'use strict';
 
-angular.module('root', ['data', 'pasvaz.bindonce'])
-    .controller('index' , ['$scope', 'courseData', function($scope, courseData) {
-        $scope.courseData = courseData;
+angular.module('root', ['pasvaz.bindonce'])
+    .controller('index' , ['$scope', function($scope, courseData) {
+        $http.get('data.json')
+            .success(function(data) {
+                $scope.courseData = courseData;
+            })
+            .error(function(data) {
+                console.log('Error');
+            });
     }]);
