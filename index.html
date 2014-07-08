@@ -9,32 +9,37 @@
     </head>
 
     <body>
-        <section ng-controller="index">
+        <a href="https://github.com/navya/oars"><img style="position: absolute; top: -1; right: 0; border: 0;" src="https://camo.githubusercontent.com/652c5b9acfaddf3a9c326fa6bde407b87f7be0f4/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6f72616e67655f6666373630302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png"></a>
+
+        <section ng-controller="index" class ="main">
+        <header>
+            <h1>OARS Course Listing</h1>
+        </header>
+
         <form ng-submit="searchQuery=search">
             <input type="text" ng-model="search" placeholder="search"/>
         </form>
+
         <table class="listing">
             <thead>
                 <tr>
                     <td>Course No</td>
-                    <td>Department</td>
+                    <td>Title</td>
                     <td>Instructor</td>
                     <td>Email</td>
                     <td>Pre req</td>
-                    <td>Schedule</td>
-                    <td>Title</td>
                     <td>Units</td>
+                    <td>Schedule</td>
                 </tr>
             </thead>
             <tr bindonce ng-repeat="course in courseData | filter:searchQuery">
                 <td>{{course["Course No"]}}</td>
-                <td>{{course["Department"]}}</td>
+                <td>{{course["Title"]}}</td>
                 <td>{{course["Instructor(s)"]}}</td>
                 <td>{{course["Inst. email"]}}</td>
                 <td>{{course["Pre-requisites"]}}</td>
-                <td>{{course["Schedule"]}}</td>
-                <td>{{course["Title"]}}</td>
                 <td>{{course["Units"]}}</td>
+                <td>{{course["Schedule"]}}</td>
             </tr>
         </table>
         </section>
