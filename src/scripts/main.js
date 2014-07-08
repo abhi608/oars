@@ -1,12 +1,12 @@
 'use strict';
 
 angular.module('root', ['pasvaz.bindonce'])
-    .controller('index' , ['$scope', function($scope, courseData) {
-        $http.get('data.json')
+    .controller('index' , ['$scope', '$http', function($scope, $http) {
+        $http.get('./data.json')
             .success(function(data) {
-                $scope.courseData = courseData;
+                $scope.courseData = data;
             })
-            .error(function(data) {
+            .error(function() {
                 console.log('Error');
             });
     }]);

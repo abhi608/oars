@@ -20,7 +20,7 @@ var config = {
 };
 
 gulp.task('build', ['images', 'jshint'], function() {
-  return gulp.src('src/*.html')
+  return gulp.src(['src/*.html', 'src/*.json'])
     .pipe(usemin({
         css: [autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'), minifycss(), 'concat'],
         js: [uglify(), 'concat']
@@ -48,12 +48,12 @@ gulp.task('serve', function(){
 });
 
 gulp.task('clean', function() {
-  return gulp.src(['dist/scripts', 'dist/styles', 'dist/**/*.html', 'dist/images'], {read: false})
+  return gulp.src(['dist/scripts', 'dist/styles', 'dist/**/*.html', 'dist/**/*.json', 'dist/images'], {read: false})
     .pipe(clean());
 });
 
 gulp.task('default', ['clean'], function () {
-    gulp.start('images', 'build', 'serve');
+    gulp.start('build', 'serve');
 });
 
 gulp.task('deploy', ['build'], function() {
