@@ -1,5 +1,265 @@
 [
     {
+        "Course No": "AE211A",
+        "Department": "AE",
+        "Inst. email": "tksen@iitk.ac.in",
+        "Instructor(s)": "T K SENGUPTA",
+        "Pre-requisites": "ESO204A/ME231A",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;T/D: Th 09:00-10:00",
+        "Title": "INCROMPRESSIBLE AERODYNAMICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "AE251A",
+        "Department": "AE",
+        "Inst. email": "kamle@iitk.ac.in",
+        "Instructor(s)": "S KAMLE, K PODDAR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TF 12:00-13:00 REQ;",
+        "Title": "EXPERIMENTS IN AEROSPACE ENGINEERING-I",
+        "Units": "(L-T-P-D-U)         2-0-2-0-8"
+    },
+    {
+        "Course No": "AE322A",
+        "Department": "AE",
+        "Inst. email": "akg@iitk.ac.in",
+        "Instructor(s)": "A K GHOSH",
+        "Pre-requisites": "AE321A",
+        "Schedule": "LEC: TTh 14:00-15:00 REQ;W 11:00-12:00 REQ;",
+        "Title": "FLIGHT MECHANICS- II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE341A",
+        "Department": "AE",
+        "Inst. email": "sathesh@iitk.ac.in",
+        "Instructor(s)": "S MARIAPPAN",
+        "Pre-requisites": "AE311A",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;F 11:00-12:00 REQ;",
+        "Title": "AEROSPACE PROPULSION",
+        "Units": "(L-T-P-D-U)         3-0-0-2-11"
+    },
+    {
+        "Course No": "AE351A",
+        "Department": "AE",
+        "Inst. email": "rkitey@iitk.ac.in",
+        "Instructor(s)": "R KITEY, A C MANDAL / ASHOKE DE",
+        "Pre-requisites": "AE251A",
+        "Schedule": "LEC:",
+        "Title": "EXPERIMENTS IN AEROSPACE ENGINEERING -II",
+        "Units": "(L-T-P-D-U)         0-0-4-1-5"
+    },
+    {
+        "Course No": "AE361A",
+        "Department": "AE",
+        "Inst. email": "akg@iitk.ac.in",
+        "Instructor(s)": "A K GHOSH, D DAS",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "AEROMODEL DESIGN & FABRICATION",
+        "Units": "(L-T-P-D-U)         0-0-3-0-3"
+    },
+    {
+        "Course No": "AE421A",
+        "Department": "AE",
+        "Inst. email": "akg@iitk.ac.in",
+        "Instructor(s)": "A K GHOSH, M KOTHARI",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "EXPERIMENTS IN FLIGHT MECHANICS",
+        "Units": "(L-T-P-D-U)         1-0-2-0-2"
+    },
+    {
+        "Course No": "AE462A",
+        "Department": "AE",
+        "Inst. email": "abhish@iitk.ac.in",
+        "Instructor(s)": "ABHISHEK",
+        "Pre-requisites": "",
+        "Schedule": "LEC: Th 08:00-09:00 REQ;",
+        "Title": "AIRCRAFT DESIGN-II",
+        "Units": "(L-T-P-D-U)         1-0-1-0-4"
+    },
+    {
+        "Course No": "AE481A",
+        "Department": "AE",
+        "Inst. email": "smittal@iitk.ac.in",
+        "Instructor(s)": "S MITTAL",
+        "Pre-requisites": "ESO204A",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
+        "Title": "BOUNDARY LAYER THEORY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE604A",
+        "Department": "AE",
+        "Inst. email": "tksen@iitk.ac.in",
+        "Instructor(s)": "T K SENGUPTA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 17:00-18:30 AE04;",
+        "Title": "COMPUTATIONAL FLUID MECHANICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE612A",
+        "Department": "AE",
+        "Inst. email": "das@iitk.ac.in",
+        "Instructor(s)": "D DAS",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TF 15:30-17:00 NWTF;",
+        "Title": "AERODYNAMICS II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE621A",
+        "Department": "AE",
+        "Inst. email": "alakeshm@iitk.ac.in",
+        "Instructor(s)": "A C MANDAL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 EEM117;Th 12:00-13:30 EEM117;",
+        "Title": "TURBULENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE625A",
+        "Department": "AE",
+        "Inst. email": "tksen@iitk.ac.in",
+        "Instructor(s)": "T K SENGUPTA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TTh 17:00-18:30 AE04;",
+        "Title": "TRANSITION AND TURBULENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE641A",
+        "Department": "AE",
+        "Inst. email": "ashtew@iitk.ac.in",
+        "Instructor(s)": "A TEWARI",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 11:00-12:00 AE04;ThF 10:00-11:00 AE04;",
+        "Title": "SPACE DYNAMICS-I",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE648A",
+        "Department": "AE",
+        "Inst. email": "mangal@iitk.ac.in",
+        "Instructor(s)": "M KOTHARI",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 AE04;Th 12:00-13:30 AE04;",
+        "Title": "FLIGHT STABILITY AND CONTROL",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE653A",
+        "Department": "AE",
+        "Inst. email": "akushari@iitk.ac.in",
+        "Instructor(s)": "A KUSHARI",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: T 10:30-12:00 NWTF;Th 12:00-13:30 NWTF;",
+        "Title": "THERMAL TURBOMACHINERY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE657A",
+        "Department": "AE",
+        "Inst. email": "mishra@iitk.ac.in",
+        "Instructor(s)": "D P MISHRA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 AE01;",
+        "Title": "AIRBREATHING MISSILE PROPULSION",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE660A",
+        "Department": "AE",
+        "Inst. email": "abhish@iitk.ac.in",
+        "Instructor(s)": "ABHISHEK",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:00 AE04;",
+        "Title": "PRELIMINARY DESIGN OF HELICOPTER",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "AE673A",
+        "Department": "AE",
+        "Inst. email": "kamle@iitk.ac.in",
+        "Instructor(s)": "S KAMLE",
+        "Pre-requisites": "AE670A",
+        "Schedule": "LEC: T 10:30-12:00 AE01;Th 12:00-13:30 AE01;",
+        "Title": "ROCKET AND MISSILE STRUCTURES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE675A",
+        "Department": "AE",
+        "Inst. email": "shekhar@iitk.ac.in",
+        "Instructor(s)": "C S UPADHYAY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 AE04;F 12:00-13:00 AE04;",
+        "Title": "INTRODUCTION TO FINITE ELEMENT METHODS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE678A",
+        "Department": "AE",
+        "Inst. email": "cven@iitk.ac.in",
+        "Instructor(s)": "C VENKATESAN",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 11:00-12:00 AE01;ThF 10:00-11:00 AE01;",
+        "Title": "THEORY OF VIBRATIONS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE681A",
+        "Department": "AE",
+        "Inst. email": "mohite@iitk.ac.in",
+        "Instructor(s)": "P M MOHITE",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MWF 09:00-10:00 AE04;",
+        "Title": "COMPOSITE MATERIALS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE687A",
+        "Department": "AE",
+        "Inst. email": "dy@iitk.ac.in",
+        "Instructor(s)": "D YADAV",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TThF 08:00-09:00 AE04;",
+        "Title": "AEROSPACE STRUC ANALYSIS II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE690A",
+        "Department": "AE",
+        "Inst. email": "erath@iitk.ac.in",
+        "Instructor(s)": "E RATHAKRISHNAN",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 AE01;F 12:00-13:00 AE01;",
+        "Title": "HIGH TEMPERATURE GAS DYNAMICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE698",
+        "Department": "AE",
+        "Inst. email": "kamal@iitk.ac.in",
+        "Instructor(s)": "K PODDAR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 17:00-18:00 VI LAB;",
+        "Title": "INTRO TO VIRTUAL INSTRUMENTATION",
+        "Units": "(L-T-P-D-U)         2-0-3-0-4"
+    },
+    {
+        "Course No": "AE698A",
+        "Department": "AE",
+        "Inst. email": "kamal@iitk.ac.in",
+        "Instructor(s)": "K PODDAR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 17:00-18:00 VI LAB;",
+        "Title": "INTRO TO VIRTUAL INSTRUMENTATION",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
         "Course No": "AE699",
         "Department": "AE",
         "Inst. email": "kamal@iitk.ac.in",
@@ -8,6 +268,36 @@
         "Schedule": "LEC:",
         "Title": "M TECH THESIS",
         "Units": "(L-T-P-D-U)         0-0-0-0-0"
+    },
+    {
+        "Course No": "AE708A",
+        "Department": "AE",
+        "Inst. email": "rkitey@iitk.ac.in",
+        "Instructor(s)": "R KITEY",
+        "Pre-requisites": "AE670A AE672A",
+        "Schedule": "LEC: MW 17:00-18:30 AE01;",
+        "Title": "OPTICAL METHODS IN SOLID MECHANICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE747A",
+        "Department": "AE",
+        "Inst. email": "rkm@iitk.ac.in",
+        "Instructor(s)": "R K MATHPAL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 NWTF;",
+        "Title": "MOLECULAR GAS DYNAMICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "AE753A",
+        "Department": "AE",
+        "Inst. email": "mishra@iitk.ac.in",
+        "Instructor(s)": "V ARGHODE",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MWF 09:00-10:00 AE01;",
+        "Title": "THEORY OF COMBUSTION",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
         "Course No": "AE799",
@@ -340,6 +630,296 @@
         "Units": "(L-T-P-D-U)         0-0-0-0-0"
     },
     {
+        "Course No": "CE242A",
+        "Department": "CE",
+        "Inst. email": "sud@iitk.ac.in",
+        "Instructor(s)": "SUDHIR MISHRA, PRIYANKA GHOSH/ANIMESH DAS",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MWF 10:00-11:00 REQ;",
+        "Title": "CIVIL ENGINEERING MATERIALS",
+        "Units": "(L-T-P-D-U)         3-0-2-0-11"
+    },
+    {
+        "Course No": "CE262A",
+        "Department": "CE",
+        "Inst. email": "rajeshs@iitk.ac.in",
+        "Instructor(s)": "RAJESH RSIVASTAVA",
+        "Pre-requisites": "ESO204A",
+        "Schedule": "LEC: WF 11:00-12:00 REQ;",
+        "Title": "ENGINEERING HYDRAULICS",
+        "Units": "(L-T-P-D-U)         2-0-2-0-8"
+    },
+    {
+        "Course No": "CE272A",
+        "Department": "CE",
+        "Inst. email": "vinaykg@iitk.ac.in",
+        "Instructor(s)": "VINAY K GUPTA",
+        "Pre-requisites": "ESO202A",
+        "Schedule": "LEC: M 11:00-12:00 REQ;TF 12:00-13:00 REQ;",
+        "Title": "STRUCTURAL ANALYSIS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE332A",
+        "Department": "CE",
+        "Inst. email": "blohani@iitk.ac.in",
+        "Instructor(s)": "BHARAT LOHANI, JAVED N MALIK",
+        "Pre-requisites": "CE331A CE321A",
+        "Schedule": "LEC:",
+        "Title": "SURVEY AND GEOLOGY CAMP",
+        "Units": "(L-T-P-D-U)         0-0-0-0-4"
+    },
+    {
+        "Course No": "CE352A",
+        "Department": "CE",
+        "Inst. email": "arghya@iitk.ac.in",
+        "Instructor(s)": "ARGHYA DAS",
+        "Pre-requisites": "CE351A",
+        "Schedule": "LEC: TTh 15:00-16:00 REQ;",
+        "Title": "FOUNDATION DESIGN",
+        "Units": "(L-T-P-D-U)         2-0-1-0-7"
+    },
+    {
+        "Course No": "CE372A",
+        "Department": "CE",
+        "Inst. email": "smishra@iitk.ac.in",
+        "Instructor(s)": "SUDIP K MISHRA",
+        "Pre-requisites": "CE242A,ESO202A",
+        "Schedule": "LEC: TTh 14:00-15:00 REQ;",
+        "Title": "REINFORCED CEMENT CONCRETE DESIGN",
+        "Units": "(L-T-P-D-U)         2-0-0-0-6"
+    },
+    {
+        "Course No": "CE382A",
+        "Department": "CE",
+        "Inst. email": "syamnair@iitk.ac.in",
+        "Instructor(s)": "SYAM NAIR, VINOD VASUDEVAN",
+        "Pre-requisites": "CE242A,CE351A",
+        "Schedule": "LEC: TThF 08:00-09:00 REQ;",
+        "Title": "TRANSPORTATION ENGINEERING",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE412A",
+        "Department": "CE",
+        "Inst. email": "mukesh@iitk.ac.in",
+        "Instructor(s)": "MUKESH SHARMA",
+        "Pre-requisites": "CE211A",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "WATER SUPPLY AND WASTEWATER DISPOSAL SYSTEMS",
+        "Units": "(L-T-P-D-U)         3-0-2-0-11"
+    },
+    {
+        "Course No": "CE422A",
+        "Department": "CE",
+        "Inst. email": "javed@iitk.ac.in",
+        "Instructor(s)": "JAVED MALIK",
+        "Pre-requisites": "CE321A/CE322A",
+        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
+        "Title": "PHYSICAL AND ENVIRONMENTAL GEOLOGY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE462A",
+        "Department": "CE",
+        "Inst. email": "shiva@iitk.ac.in",
+        "Instructor(s)": "SHIVAM TRIPATHI",
+        "Pre-requisites": "CE262A CE361A",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;T/D: F",
+        "Title": "HYDRAULIC AND HYDROLOGIC DESIGN",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "CE491",
+        "Department": "CE",
+        "Inst. email": "priyog@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "PROJECT-I",
+        "Units": "(L-T-P-D-U)         2-0-6-2-2"
+    },
+    {
+        "Course No": "CE491A",
+        "Department": "CE",
+        "Inst. email": "priyog@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "UNDER GRADUATE RESEARCH -I",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
+    },
+    {
+        "Course No": "CE492",
+        "Department": "CE",
+        "Inst. email": "priyog@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-8-0-3"
+    },
+    {
+        "Course No": "CE493A",
+        "Department": "CE",
+        "Inst. email": "priyog@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "UNDER GRADUATE RESEARCH -IV",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
+    },
+    {
+        "Course No": "CE612A",
+        "Department": "CE",
+        "Inst. email": "rajeshs@iitk.ac.in",
+        "Instructor(s)": "RAJESH RSIVASTAVA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 11:00-12:00 REQ;Th 10:00-11:00 REQ;",
+        "Title": "FLUID MECHANICS LABORATORY",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "CE613A",
+        "Department": "CE",
+        "Inst. email": "shiva@iitk.ac.in",
+        "Instructor(s)": "SHIVAM TRIPATHI",
+        "Pre-requisites": "CE262A/CE611A CE361A/CE10A",
+        "Schedule": "LEC: WF 11:00-12:00 REQ;",
+        "Title": "COMPUTER METHODS IN HYDRAULICS AND HYDROLOGY",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "CE622A",
+        "Department": "CE",
+        "Inst. email": "chakra@iitk.ac.in",
+        "Instructor(s)": "SEKHAR CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;",
+        "Title": "STABILITY OF STRUCTURES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE625A",
+        "Department": "CE",
+        "Inst. email": "dcrai@iitk.ac.in",
+        "Instructor(s)": "DURGESH RAI",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "MASONARY STRUCTURES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE628A",
+        "Department": "CE",
+        "Inst. email": "kvharish@iitk.ac.in",
+        "Instructor(s)": "K V HARISH",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 14:00-15:30 REQ;",
+        "Title": "DURABILITY OF CONCRETE STRUCTURES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE629A",
+        "Department": "CE",
+        "Inst. email": "samitrc@iitk.ac.in",
+        "Instructor(s)": "SAMIT RAYCHAUDHURY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "EARTHQUAKE ANALYSIS AND DESIGN OF STRUCTURES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE630A",
+        "Department": "CE",
+        "Inst. email": "sarv@iitk.ac.in",
+        "Instructor(s)": "SARVESH CHANDRA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
+        "Title": "ROCK MECHANICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE632A",
+        "Department": "CE",
+        "Inst. email": "nrpatra@iitk.ac.in",
+        "Instructor(s)": "N R PATRA",
+        "Pre-requisites": "CE352A/CE631A",
+        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
+        "Title": "FOUNDATION ANALYSIS AND DESIGN",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE635A",
+        "Department": "CE",
+        "Inst. email": "prishati@iitk.ac.in",
+        "Instructor(s)": "PRISHATI ROYCHOWDHURY, PRIYANKA GHOSH",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "FOUNDATION DYNAMICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE672A",
+        "Department": "CE",
+        "Inst. email": "onkar@iitk.ac.in",
+        "Instructor(s)": "ONKAR DIXIT",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;",
+        "Title": "MACHINE PROCESSING OF REMOTELY SENSED DATA",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE673N",
+        "Department": "CE",
+        "Inst. email": "blohani@iitk.ac.in",
+        "Instructor(s)": "BHARAT LOHANI",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "INSTRUMENTATION, LABORATORY AND FIELD PRACTICES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-3"
+    },
+    {
+        "Course No": "CE674A",
+        "Department": "CE",
+        "Inst. email": "nagaraj@iitk.ac.in",
+        "Instructor(s)": "B NAGARAJAN",
+        "Pre-requisites": "CE678A",
+        "Schedule": "LEC: ThF 10:00-11:00 REQ;",
+        "Title": "GLOBAL NAVIGATION SATELLITE SYSTEM",
+        "Units": "(L-T-P-D-U)         2-0-2-0-8"
+    },
+    {
+        "Course No": "CE676A",
+        "Department": "CE",
+        "Inst. email": "blohani@iitk.ac.in",
+        "Instructor(s)": "BHARAT LOHANI",
+        "Pre-requisites": "CE671A",
+        "Schedule": "LEC: MW 14:00-15:00 REQ;",
+        "Title": "LASER SCANNING AND PHOTOGRAMMETRY",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "CE682A",
+        "Department": "CE",
+        "Inst. email": "adas@iitk.ac.in",
+        "Instructor(s)": "ANIMESH DAS, VINOD VASUDEVAN",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "ANALYSIS AND DESIGN OF TRANSPORTATION",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CE690A",
+        "Department": "CE",
+        "Inst. email": "adas@iitk.ac.in",
+        "Instructor(s)": "ANIMESH DAS, VINOD VASUDEVAN/SYAM NAIR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: Th 09:00-10:00 REQ;",
+        "Title": "LABORATORY COURSE IN TRANSPORTATION ENGINEERING",
+        "Units": "(L-T-P-D-U)         0-0-6-0-6"
+    },
+    {
         "Course No": "CE699",
         "Department": "CE",
         "Inst. email": "nrpatra@iitk.ac.in",
@@ -533,7 +1113,7 @@
         "Course No": "CHE659A",
         "Department": "CHE",
         "Inst. email": "spanda@iitk.ac.in",
-        "Instructor(s)": "S PANDA",
+        "Instructor(s)": "S PANDA (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: MW 15:30-17:00 REQ;",
         "Title": "PROCESS ENGG. PRINCIPLES IN MICRO. FABRICATION",
@@ -566,7 +1146,7 @@
         "Instructor(s)": "A TRIPATHI",
         "Pre-requisites": "",
         "Schedule": "LEC: TF 15:30-17:00 REQ;",
-        "Title": "NANOFABRICATION",
+        "Title": "SPECIAL TOPICS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -583,7 +1163,7 @@
         "Course No": "CHE684A",
         "Department": "CHE",
         "Inst. email": "raghvend@iitk.ac.in",
-        "Instructor(s)": "R SINGH",
+        "Instructor(s)": "R SINGH (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
         "Title": "AN INTRODUCTION TO SYSTEMS BIOLOGY",
@@ -593,7 +1173,7 @@
         "Course No": "CHE688A",
         "Department": "CHE",
         "Inst. email": "ashuto@iitk.ac.in",
-        "Instructor(s)": "A SHARMA",
+        "Instructor(s)": "A SHARMA (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: MW 17:00-18:30 REQ;",
         "Title": "FUNDM. OF COLLOID & INTERFACE SCI. & TECH.",
@@ -733,7 +1313,7 @@
         "Course No": "CHM322A",
         "Department": "CHM",
         "Inst. email": "srihari@iitk.ac.in",
-        "Instructor(s)": "K SRIHARI",
+        "Instructor(s)": "K SRIHARI (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: WThF 11:00-12:00 REQ;",
         "Title": "PHYSICAL CHEMISTRY -II",
@@ -753,7 +1333,7 @@
         "Course No": "CHM342A",
         "Department": "CHM",
         "Inst. email": "sprath@iitk.ac.in",
-        "Instructor(s)": "S P RATH",
+        "Instructor(s)": "S P RATH (OE)",
         "Pre-requisites": "CHM345A",
         "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;",
         "Title": "INORGANIC CHEMISTRY -II",
@@ -773,7 +1353,7 @@
         "Course No": "CHM402",
         "Department": "CHM",
         "Inst. email": "rameshr@iitk.ac.in",
-        "Instructor(s)": "RAMESH RAMAPANICKER",
+        "Instructor(s)": "RAMESH RAMAPANICKER (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
         "Title": "ORGANIC CHEMISTRY II",
@@ -783,7 +1363,7 @@
         "Course No": "CHM402A",
         "Department": "CHM",
         "Inst. email": "rameshr@iitk.ac.in",
-        "Instructor(s)": "RAMESH RAMAPANICKER",
+        "Instructor(s)": "RAMESH RAMAPANICKER (OE)",
         "Pre-requisites": "CHM303A",
         "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
         "Title": "ORGANIC CHEMISTRY II",
@@ -793,7 +1373,7 @@
         "Course No": "CHM422",
         "Department": "CHM",
         "Inst. email": "srihari@iitk.ac.in",
-        "Instructor(s)": "K SRIHARI",
+        "Instructor(s)": "K SRIHARI (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: WThF 11:00-12:00 REQ;",
         "Title": "PHYSICAL CHEMISTRY II",
@@ -830,23 +1410,13 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "CHM602",
+        "Course No": "CHM609A",
         "Department": "CHM",
         "Inst. email": "maddali@iitk.ac.in",
         "Instructor(s)": "M L N RAO",
         "Pre-requisites": "",
         "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "ADVANCED ORGANIC CHEMISTRY II",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
-    },
-    {
-        "Course No": "CHM602A",
-        "Department": "CHM",
-        "Inst. email": "maddali@iitk.ac.in",
-        "Instructor(s)": "M L N RAO",
-        "Pre-requisites": "CHM402A",
-        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "ADVANCED ORGANIC CHEMISTRY II",
+        "Title": "PRINCIPALES OF ORGANIC CHEMISTRY",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -855,7 +1425,7 @@
         "Inst. email": "ddethe@iitk.ac.in",
         "Instructor(s)": "D H DETHE",
         "Pre-requisites": "CHM402",
-        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
+        "Schedule": "LEC: MW 14:00-15:30 REQ;",
         "Title": "FRONTIERS IN ORGANIC CHEMISTRY",
         "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
@@ -865,8 +1435,28 @@
         "Inst. email": "ddethe@iitk.ac.in",
         "Instructor(s)": "D H DETHE",
         "Pre-requisites": "",
-        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
+        "Schedule": "LEC: MW 14:00-15:30 REQ;",
         "Title": "FRONTIERS IN ORGANIC CHEMISTRY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CHM626",
+        "Department": "CHM",
+        "Inst. email": "dprasad@iitk.ac.in",
+        "Instructor(s)": "D L V K PRASAD (OE)",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
+        "Title": "SOLID STATE CHEMISTRY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
+        "Course No": "CHM626A",
+        "Department": "CHM",
+        "Inst. email": "dprasad@iitk.ac.in",
+        "Instructor(s)": "D L V K PRASAD (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
+        "Title": "SOLID STATE CHEMISTRY",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -930,23 +1520,13 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "CHM654",
+        "Course No": "CHM649A",
         "Department": "CHM",
         "Inst. email": "pkb@iitk.ac.in",
         "Instructor(s)": "P K BHARADWAJ",
         "Pre-requisites": "",
         "Schedule": "LEC: MWF 09:00-10:00 REQ;",
-        "Title": "SUPRAMOLECULAR CHEMISTRY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
-    },
-    {
-        "Course No": "CHM654A",
-        "Department": "CHM",
-        "Inst. email": "pkb@iitk.ac.in",
-        "Instructor(s)": "P K BHARDWAJ",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
-        "Title": "SUPRAMOLECULAR CHEMISTRY",
+        "Title": "PRINCIPALES OF INORGANIC CHEMISTRY",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -955,7 +1535,7 @@
         "Inst. email": "vankar@iitk.ac.in",
         "Instructor(s)": "Y D VANKAR",
         "Pre-requisites": "#",
-        "Schedule": "LEC: TThF 08:00-09:00 REQ;",
+        "Schedule": "LEC: TF 15:30-17:00 REQ;",
         "Title": "CHEMISTRY OF NATURAL PRODUCTS",
         "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
@@ -965,7 +1545,7 @@
         "Inst. email": "vankar@iitk.ac.in",
         "Instructor(s)": "Y D VANKAR",
         "Pre-requisites": "CHM402A",
-        "Schedule": "LEC: TThF 08:00-09:00 REQ;",
+        "Schedule": "LEC: TF 15:30-17:00 REQ;",
         "Title": "CHEMISTRY OF NATURAL PRODUCTS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
@@ -1012,10 +1592,10 @@
     {
         "Course No": "COM200",
         "Department": "COM",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Inst. email": "achla@iitk.ac.in",
+        "Instructor(s)": "A M RAINA",
         "Pre-requisites": "",
-        "Schedule": "LEC: Th 09:00-10:00 L7;",
+        "Schedule": "LEC: W 18:00-19:00 L7;",
         "Title": "COMMUNICATION SKILLS: COMPOSITION",
         "Units": "(L-T-P-D-U)         1-0-2-0-5"
     },
@@ -1050,6 +1630,16 @@
         "Units": "(L-T-P-D-U)         3-0-3-0-12"
     },
     {
+        "Course No": "CS251",
+        "Department": "CSE",
+        "Inst. email": "ppk@iitk.ac.in",
+        "Instructor(s)": "PEEYUSH P KURUR",
+        "Pre-requisites": "ESC101N",
+        "Schedule": "LEC: M 10:00-11:00 REQ;",
+        "Title": "COMPUTING LABORATORY-I",
+        "Units": "(L-T-P-D-U)         1-0-3-0-4"
+    },
+    {
         "Course No": "CS251A",
         "Department": "CSE",
         "Inst. email": "ppk@iitk.ac.in",
@@ -1058,6 +1648,16 @@
         "Schedule": "LEC: M 10:00-11:00 REQ;",
         "Title": "COMPUTING LABORATORY-I",
         "Units": "(L-T-P-D-U)         1-0-3-0-6"
+    },
+    {
+        "Course No": "CS315",
+        "Department": "CSE",
+        "Inst. email": "tvp@iitk.ac.in",
+        "Instructor(s)": "T V PRABHAKAR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "PRINCIPLES OF DATA BASE SYSTEMS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "CS315A",
@@ -1070,6 +1670,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "CS335",
+        "Department": "CSE",
+        "Inst. email": "subhajit@iitk.ac.in",
+        "Instructor(s)": "SUBHAJIT ROY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
+        "Title": "COMPILER DESIGN",
+        "Units": "(L-T-P-D-U)         3-0-4-0-5"
+    },
+    {
         "Course No": "CS335A",
         "Department": "CSE",
         "Inst. email": "subhajit@iitk.ac.in",
@@ -1078,6 +1688,16 @@
         "Schedule": "LEC: MWF 09:00-10:00 REQ;",
         "Title": "COMPILER DESIGN",
         "Units": "(L-T-P-D-U)         3-0-0-3-12"
+    },
+    {
+        "Course No": "CS365",
+        "Department": "CSE",
+        "Inst. email": "amit@iitk.ac.in",
+        "Instructor(s)": "A MUKHERJEE",
+        "Pre-requisites": "ESO211/CS210",
+        "Schedule": "LEC: TF 14:00-15:30 REQ;",
+        "Title": "ARTIFICIAL INTELLIGENCE PROGRAMMING",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "CS365A",
@@ -1100,6 +1720,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "CS618",
+        "Department": "CSE",
+        "Inst. email": "arnabb@iitk.ac.in",
+        "Instructor(s)": "A BHATTACHARYA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "INDEXING AND SEARCHING TECHNIQUES IN DATABASE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "CS618A",
         "Department": "CSE",
         "Inst. email": "arnabb@iitk.ac.in",
@@ -1108,6 +1738,16 @@
         "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
         "Title": "INDEXING AND SEARCHING TECHNIQUES IN DATABASE",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS625",
+        "Department": "CSE",
+        "Inst. email": "dheeraj@iitk.ac.in",
+        "Instructor(s)": "DHEERAJ SANGHI",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "ADVANCED COMPUTER NETWORKS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "CS625A",
@@ -1120,6 +1760,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "CS634",
+        "Department": "CSE",
+        "Inst. email": "rkg@iitk.ac.in",
+        "Instructor(s)": "R K GHOSH",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "MOBILE COMPUTING",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "CS634A",
         "Department": "CSE",
         "Inst. email": "rkg@iitk.ac.in",
@@ -1128,6 +1778,36 @@
         "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
         "Title": "MOBILE COMPUTING",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS635",
+        "Department": "CSE",
+        "Inst. email": "skmehta@iitk.ac.in",
+        "Instructor(s)": "S K MEHTA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
+        "Title": "APPROXIMATION ALGORITHMS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
+        "Course No": "CS635A",
+        "Department": "CSE",
+        "Inst. email": "skmehta@iitk.ac.in",
+        "Instructor(s)": "S K MEHTA",
+        "Pre-requisites": "CS345A",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
+        "Title": "APPROXIMATION ALGORITHMS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS640",
+        "Department": "CSE",
+        "Inst. email": "rtewari@iitk.ac.in",
+        "Instructor(s)": "RAGHUNATH TEWARI",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "COMPUTATIONAL COMPLEXITY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "CS640A",
@@ -1140,6 +1820,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "CS647",
+        "Department": "CSE",
+        "Inst. email": "ssax@iitk.ac.in",
+        "Instructor(s)": "SANJEEV SAXENA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
+        "Title": "ADVANCED TOPICS IN ALGORITHMS & DATA STRCUTURES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "CS647A",
         "Department": "CSE",
         "Inst. email": "ssax@iitk.ac.in",
@@ -1148,6 +1838,16 @@
         "Schedule": "LEC: WThF 11:00-12:00 REQ;",
         "Title": "ADVANCED TOPICS IN ALGORITHMS & DATA STRCUTURES",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS648",
+        "Department": "CSE",
+        "Inst. email": "sbaswana@iitk.ac.in",
+        "Instructor(s)": "S BASWANA (OE)",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "RANDOMIZED ALGORITHMS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "CS648A",
@@ -1160,6 +1860,36 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "CS656",
+        "Department": "CSE",
+        "Inst. email": "simon@iitk.ac.in",
+        "Instructor(s)": "SUNIL E SIMON",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "ALGORITHMIC GAME THEORY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
+        "Course No": "CS656A",
+        "Department": "CSE",
+        "Inst. email": "simon@iitk.ac.in",
+        "Instructor(s)": "SUNIL E SIMON",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "ALGORITHMIC GAME THEORY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS679",
+        "Department": "CSE",
+        "Inst. email": "vinaypn@iitk.ac.in",
+        "Instructor(s)": "VINAY NAMBOODIRI",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 17:00-18:30 REQ;",
+        "Title": "MACHINE LEARNING FOR COMPUTER VISION",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "CS679A",
         "Department": "CSE",
         "Inst. email": "vinaypn@iitk.ac.in",
@@ -1168,6 +1898,16 @@
         "Schedule": "LEC: MW 17:00-18:30 REQ;",
         "Title": "MACHINE LEARNING FOR COMPUTER VISION",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS680",
+        "Department": "CSE",
+        "Inst. email": "seth@iitk.ac.in",
+        "Instructor(s)": "ANIL SETH",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
+        "Title": "CATEGORY THEORY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "CS680A",
@@ -1180,24 +1920,24 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "CS687A",
+        "Course No": "CS697",
         "Department": "CSE",
-        "Inst. email": "satyadev@iitk.ac.in",
-        "Instructor(s)": "S NANDAKUMAR",
+        "Inst. email": "ajain@iitk.ac.in",
+        "Instructor(s)": "CONVNOR DPGC",
         "Pre-requisites": "",
-        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
-        "Title": "ALGORITHMIC INFORMATION THEORY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN COMPUTER SCIENCE",
+        "Units": "(L-T-P-D-U)         0-0-0-0-4"
     },
     {
-        "Course No": "CS698T",
+        "Course No": "CS697A",
         "Department": "CSE",
-        "Inst. email": "skmehta@iitk.ac.in",
-        "Instructor(s)": "S K MEHTA",
+        "Inst. email": "ajain@iitk.ac.in",
+        "Instructor(s)": "CONVNOR DPGC",
         "Pre-requisites": "",
-        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
-        "Title": "APPROXIMATION ALGORITHMS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN COMPUTER SCIENCE",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
     },
     {
         "Course No": "CS699",
@@ -1210,6 +1950,16 @@
         "Units": "(L-T-P-D-U)         0-0-0-0-0"
     },
     {
+        "Course No": "CS746",
+        "Department": "CSE",
+        "Inst. email": "manindra@iitk.ac.in",
+        "Instructor(s)": "M AGRAWAL (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
+        "Title": "RIEMANN HYPOTHESIS AND ITS APPLICATIONS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "CS746A",
         "Department": "CSE",
         "Inst. email": "manindra@iitk.ac.in",
@@ -1220,6 +1970,26 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "CS747A",
+        "Department": "CSE",
+        "Inst. email": "nitin@iitk.ac.in",
+        "Instructor(s)": "NITIN SAXENA",
+        "Pre-requisites": "CS203A CS340A",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "RANDOMIZED METHODS IN COMPUTATIONAL COMPLEXITY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS771",
+        "Department": "CSE",
+        "Inst. email": "hk@iitk.ac.in",
+        "Instructor(s)": "HARISH C KARNICK",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "MACHINE LEARNING TECHNIQUES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "CS771A",
         "Department": "CSE",
         "Inst. email": "hk@iitk.ac.in",
@@ -1227,6 +1997,26 @@
         "Pre-requisites": "",
         "Schedule": "LEC: TW 12:00-13:30 REQ;",
         "Title": "MACHINE LEARNING TECHNIQUES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "CS797",
+        "Department": "CSE",
+        "Inst. email": "ajain@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DPGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN COMPUTER SCIENCE",
+        "Units": "(L-T-P-D-U)         0-0-0-0-4"
+    },
+    {
+        "Course No": "CS797A",
+        "Department": "CSE",
+        "Inst. email": "ajain@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DPGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN COMPUTER SCIENCE",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -1258,6 +2048,76 @@
         "Schedule": "LEC: MWTh 12:00-13:00 L17;T/D: F 17:00-18:00",
         "Title": "ATOMS, MOLECULES AND PHOTONS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "DES606A",
+        "Department": "MDES",
+        "Inst. email": "ramans@iitk.ac.in",
+        "Instructor(s)": "RAMAN SAXENA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "INTERACTION DESIGN FOR PHYSICAL PRODUCTS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "DES621A",
+        "Department": "MDES",
+        "Inst. email": "kppatil@iitk.ac.in",
+        "Instructor(s)": "K P PATIL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
+        "Title": "CREATIVE VISUALIZATION",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "DES623A",
+        "Department": "MDES",
+        "Inst. email": "satyaki@iitk.ac.in",
+        "Instructor(s)": "SATYAKI ROY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: WTh 10:30-12:00 REQ;",
+        "Title": "TOPICS IN MOTION PICTURES",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "DES630A",
+        "Department": "MDES",
+        "Inst. email": "stroy@iitk.ac.ic",
+        "Instructor(s)": "S T ROY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: Th 15:30-17:00 REQ;F 17:00-18:30 REQ;",
+        "Title": "FUNDAMENTALS OF GRAPHICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "DES633A",
+        "Department": "MDES",
+        "Inst. email": "ntiwari@iitk.ac.in",
+        "Instructor(s)": "N TIWARI (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 17:00-18:00 REQ;",
+        "Title": "INTEGRATED PRODUCT DEVELOPMENT-I",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "DES682A",
+        "Department": "MDES",
+        "Inst. email": "satyaki@iitk.ac.in",
+        "Instructor(s)": "J S IYENGAR, S BHATTACHARYA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 12:00-13:00 REQ;",
+        "Title": "DESIGN PROJECT II",
+        "Units": "(L-T-P-D-U)         1-0-6-0-9"
+    },
+    {
+        "Course No": "DES698A",
+        "Department": "MDES",
+        "Inst. email": "satyaki@iitk.ac.in",
+        "Instructor(s)": "SATYAKI ROY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: W 09:00-10:30 REQ;F 12:00-13:30 REQ;",
+        "Title": "SPECIAL STUDIES/PROJECT COURSES IN DESIGN",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
     },
     {
         "Course No": "DES699",
@@ -1364,7 +2224,7 @@
         "Department": "HSS",
         "Inst. email": "deepm@iitk.ac.in",
         "Instructor(s)": "DEEP MUKHERJEE (HSS21)",
-        "Pre-requisites": "ECO201A ECO221A",
+        "Pre-requisites": "ECO201A/ECO101A",
         "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
         "Title": "ENVIROMENTAL ECONOMICS AND POLICY",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
@@ -1415,7 +2275,7 @@
         "Inst. email": "tanika@iitk.ac.in",
         "Instructor(s)": "TANIKA CHAKRABORTY",
         "Pre-requisites": "",
-        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Schedule": "LEC: T 10:30-12:00 REQ;F 14:30-15:30 REQ;",
         "Title": "EMPIRICAL METHODS IN APPLIED MICROECONOMICS",
         "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
@@ -1477,6 +2337,16 @@
         "Pre-requisites": "",
         "Schedule": "LEC: MWF 09:00-10:00 REQ;",
         "Title": "PROGRAMME EVALUATION: METHODS AND APPLICATIONS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "ECO757A",
+        "Department": "HSS",
+        "Inst. email": "pravk@iitk.ac.in",
+        "Instructor(s)": "P KULSHRESHTRA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "NONLINEAR DYNAMICS AND CONTROL IN ECONOMICS AND",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -1570,6 +2440,26 @@
         "Units": "(L-T-P-D-U)         0-3-6-0-12"
     },
     {
+        "Course No": "EE392A",
+        "Department": "EE",
+        "Inst. email": "ynsingh@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "UNDER GRADUATE PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
+    },
+    {
+        "Course No": "EE492A",
+        "Department": "EE",
+        "Inst. email": "ynsingh@iitk.ac.in",
+        "Instructor(s)": "CONVENOR DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "UNDER GRADUATE PROJECT-IV",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
+    },
+    {
         "Course No": "EE600A",
         "Department": "EE",
         "Inst. email": "venkats@iitk.ac.in",
@@ -1600,6 +2490,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "EE609A",
+        "Department": "EE",
+        "Inst. email": "ketan@iitk.ac.in",
+        "Instructor(s)": "K RAJAWAT",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "CONVEX OPTIMIZATION IN SIGNAL PROCESSING AND",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
         "Course No": "EE611A",
         "Department": "EE",
         "Inst. email": "baquer@iitk.ac.in",
@@ -1607,13 +2507,13 @@
         "Pre-requisites": "",
         "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
         "Title": "ORGANIC ELECTRONICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Units": "(L-T-P-D-U)         3-0-3-0-12"
     },
     {
         "Course No": "EE617A",
         "Department": "EE",
         "Inst. email": "nishchal@iitk.ac.in",
-        "Instructor(s)": "N K VERMA",
+        "Instructor(s)": "N K VERMA (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: TTh 17:00-18:30 REQ;",
         "Title": "INDUSTRIAL AUTOMATION AND CONTROL",
@@ -1653,7 +2553,7 @@
         "Course No": "EE626A",
         "Department": "EE",
         "Inst. email": "rkb@iitk.ac.in",
-        "Instructor(s)": "R K BANSAL",
+        "Instructor(s)": "R K BANSAL (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: TTh 17:00-18:30 REQ;",
         "Title": "TOPICS IN STOCHASTIC PROCESSES",
@@ -1673,7 +2573,7 @@
         "Course No": "EE629A",
         "Department": "EE",
         "Inst. email": "ynsingh@iitk.ac.in",
-        "Instructor(s)": "Y N SINGH",
+        "Instructor(s)": "Y N SINGH (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: MW 17:00-18:30 REQ;",
         "Title": "DIGITAL SWITCHING",
@@ -1747,7 +2647,7 @@
         "Pre-requisites": "",
         "Schedule": "LEC: TW 12:00-13:30 REQ;",
         "Title": "THE FINITE ELEMENT METHOD FOR ELECTRIC AND",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Units": "(L-T-P-D-U)         3-0-3-0-12"
     },
     {
         "Course No": "EE661A",
@@ -1794,19 +2694,69 @@
         "Department": "EE",
         "Inst. email": "adrish@iitk.ac.in",
         "Instructor(s)": "A BANERJEE",
-        "Pre-requisites": "MTH309A MTH201A",
-        "Schedule": "LEC: TW 12:00-13:30 REQ;",
-        "Title": "CODING THEORY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TF 15:30-17:00 REQ;",
+        "Title": "MODERN CODING THEORY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EE671A",
+        "Department": "EE",
+        "Inst. email": "lbehera@iitk.ac.in",
+        "Instructor(s)": "L BEHERA OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 17:00-18:30 REQ;",
+        "Title": "NEURAL NETWORKS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
         "Course No": "EE681A",
         "Department": "EE",
         "Inst. email": "chauhan@iitk.ac.in",
-        "Instructor(s)": "Y S CHAUHAN",
+        "Instructor(s)": "Y S CHAUHAN (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: MWF 09:00-10:00 REQ;",
         "Title": "COMPACT MODELING",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EE698B",
+        "Department": "EE",
+        "Inst. email": "lbehera@iitk.ac.in",
+        "Instructor(s)": "L BEHERA",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
+        "Title": "CONTROL OF CYBER-PHYSICAL SYSTEM",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EE698C",
+        "Department": "EE",
+        "Inst. email": "potluri@iitk.ac.in",
+        "Instructor(s)": "R POTLURI (OE)",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
+        "Title": "CONSENSUS IN DISTRIBUTED MULTIAGENT SYSTEM",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EE698E",
+        "Department": "EE",
+        "Inst. email": "shilpig@iitk.ac.in",
+        "Instructor(s)": "SHILPI GUPTA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 14:00-15:30 REQ;",
+        "Title": "QUANTUM AND WAVE PHENOMENA WITH ELECTRICAL",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EE698I",
+        "Department": "EE",
+        "Inst. email": "sskiyer@iitk.ac.in",
+        "Instructor(s)": "S S K IYER",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TF 15:30-17:00 REQ;",
+        "Title": "SOLAR PHOTOVOLTAIC TECHNOLOGY",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -1828,6 +2778,76 @@
         "Schedule": "LEC:",
         "Title": "PHD THESIS",
         "Units": "(L-T-P-D-U)         0-0-0-0-0"
+    },
+    {
+        "Course No": "EEM604A",
+        "Department": "CE",
+        "Inst. email": "vinod@iitk.ac.in",
+        "Instructor(s)": "VINOD TARE",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "ENVIRONMENTAL QUALITY & POLLUTION MONITORING",
+        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+    },
+    {
+        "Course No": "EEM608B",
+        "Department": "CE",
+        "Inst. email": "abhas@iitk.ac.in",
+        "Instructor(s)": "ABHAS SINGH",
+        "Pre-requisites": "CE211A/EEM602A",
+        "Schedule": "LEC: TF 14:00-15:30 REQ;",
+        "Title": "SUBSURFACE CONTAMINANT FATE AND TRANSPORT",
+        "Units": "(L-T-P-D-U)         3-0-0-0-5"
+    },
+    {
+        "Course No": "EEM609A",
+        "Department": "CE",
+        "Inst. email": "sguha@iitk.ac.in",
+        "Instructor(s)": "S GUHA",
+        "Pre-requisites": "MTH102A CE211A",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
+        "Title": "MODELING OF NATURAL SYSTEMS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EEM613A",
+        "Department": "CE",
+        "Inst. email": "snt@iitk.ac.in",
+        "Instructor(s)": "S N TRIPATHI, ANUBHA GOEL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TF 15:30-17:00 REQ;",
+        "Title": "ATMOSPHERIC PHYSICS AND CHEMISTRY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EEM614",
+        "Department": "CE",
+        "Inst. email": "pbose@iitk.ac.in",
+        "Instructor(s)": "PURNENDU BOSE, P M PRASAD",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;F 14:00-15:00 REQ;",
+        "Title": "PRINCIPLES OF ENVIRONMENTAL ECONOMICS AND",
+        "Units": "(L-T-P-D-U)         3-0-0-4-4"
+    },
+    {
+        "Course No": "EEM614A",
+        "Department": "CE",
+        "Inst. email": "pbose@iitk.ac.in",
+        "Instructor(s)": "PURNENDU BOSE, P M PRASAD",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;",
+        "Title": "PRINCIPLES OF ENVIRONMENTAL ECONOMICS AND",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "EEM615A",
+        "Department": "CE",
+        "Inst. email": "anubha@iitk.ac.in",
+        "Instructor(s)": "ANUBHA GOEL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
+        "Title": "AGRICULTURE, ENVIRONMENT AND CLIMATECHANGE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-5"
     },
     {
         "Course No": "EEM699",
@@ -1855,7 +2875,7 @@
         "Inst. email": "chai@iitk.ac.in",
         "Instructor(s)": "C PUTTASWAMY (HSS1)",
         "Pre-requisites": "",
-        "Schedule": "LEC: MWF 17:00-18:00 REQ;T/D: T 17:00-18:00 REQ;",
+        "Schedule": "LEC: MWTh 17:00-18:00 REQ;T/D: T 17:00-18:00",
         "Title": "INTRODUCTION TO LINGUISTICS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
@@ -2070,6 +3090,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "ES653A",
+        "Department": "ES",
+        "Inst. email": "sktand@iitk.ac.in",
+        "Instructor(s)": "S K TANDON, R SINHA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:30-13:30 REQ;",
+        "Title": "SEDIMENTOLOGY AND BASIN ANALYSIS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
         "Course No": "ES699",
         "Department": "ES",
         "Inst. email": "rsinha@iitk.ac.in",
@@ -2102,8 +3132,8 @@
     {
         "Course No": "ESC201A",
         "Department": "EE",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Inst. email": "mjakhtar@iitk.ac.in",
+        "Instructor(s)": "M J AKHTAR",
         "Pre-requisites": "",
         "Schedule": "LEC: MWTh 17:00-18:00 L7;T/D: T 17:00-18:00 REQ;",
         "Title": "INTRODUCTION TO ELECTRONICS",
@@ -2112,8 +3142,8 @@
     {
         "Course No": "ESO201A",
         "Department": "ME",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Inst. email": "akag@iitk.ac.in",
+        "Instructor(s)": "A K AGARWAL",
         "Pre-requisites": "",
         "Schedule": "LEC: MWTh 12:00-13:00 L3;T/D: F 17:00-18:00 REQ;",
         "Title": "THERMODYNAMICS",
@@ -2122,8 +3152,8 @@
     {
         "Course No": "ESO202A",
         "Department": "AE",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Inst. email": "shekhar@iitk.ac.in",
+        "Instructor(s)": "C S UPADHYAY",
         "Pre-requisites": "",
         "Schedule": "LEC: MThF 08:00-09:00 L16;T/D: W 08:00-09:00",
         "Title": "MECHANICS OF SOLIDS",
@@ -2132,12 +3162,22 @@
     {
         "Course No": "ESO203A",
         "Department": "EE",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Inst. email": "scs@iitk.ac.in",
+        "Instructor(s)": "S C SRIVASTAVA",
         "Pre-requisites": "",
         "Schedule": "LEC: MWTh 12:00-13:00 L16;T/D: F 17:00-18:00",
         "Title": "INTRODUCTION TO ELECTRICAL ENGINEERING",
         "Units": "(L-T-P-D-U)         3-1-2-0-13"
+    },
+    {
+        "Course No": "ESO209",
+        "Department": "MTH",
+        "Inst. email": "neeraj@iitk.ac.in",
+        "Instructor(s)": "NEERAJ MISHRA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MThF 08:00-09:00 L7;T/D: W 08:00-09:00 REQ;",
+        "Title": "PROBABILITY AND STATISTICS",
+        "Units": "(L-T-P-D-U)         3-1-0-1-4"
     },
     {
         "Course No": "IME611A",
@@ -2153,7 +3193,7 @@
         "Course No": "IME625A",
         "Department": "IME",
         "Inst. email": "kavijit@iitk.ac.in",
-        "Instructor(s)": "AVIJIT KANRA",
+        "Instructor(s)": "AVIJIT KHANRA",
         "Pre-requisites": "",
         "Schedule": "LEC: W 09:00-10:30 REQ;F 12:00-13:30 REQ;",
         "Title": "INDRODUCTION TO STOCHASTIC PROCESSES AND THEIR",
@@ -2174,7 +3214,7 @@
         "Department": "IME",
         "Inst. email": "vanamala@iitk.ac.in",
         "Instructor(s)": "S VANAMALA",
-        "Pre-requisites": "",
+        "Pre-requisites": "IME605A",
         "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
         "Title": "ADVANCED DECISION MODELS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
@@ -2235,7 +3275,7 @@
         "Inst. email": "bvphani@iitk.ac.in",
         "Instructor(s)": "B V PHANI",
         "Pre-requisites": "MBA601A",
-        "Schedule": "LEC: Th 14:00-15:30 REQ;F 10:30-12:00 REQ;",
+        "Schedule": "LEC: Th 10:30-12:00 REQ;F 14:00-15:30 REQ;",
         "Title": "FINANCIAL MANAGEMENT",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
@@ -2350,6 +3390,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MBA653A",
+        "Department": "IME",
+        "Inst. email": "sprawesh@iitk.ac.in",
+        "Instructor(s)": "SHANKAR PRAWESH",
+        "Pre-requisites": "",
+        "Schedule": "LEC: W 09:30-10:30 REQ;F 12:00-13:30 REQ;",
+        "Title": "SOCIAL MEDIA ANALYTICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
         "Course No": "MBA661A",
         "Department": "IME",
         "Inst. email": "dphilip@iitk.ac.in",
@@ -2415,8 +3465,18 @@
         "Inst. email": "anoops@iitk.ac.in",
         "Instructor(s)": "ANOOP SINGH",
         "Pre-requisites": "",
-        "Schedule": "LEC: Th 14:00-15:30 REQ;F 10:30-12:00 REQ;",
+        "Schedule": "LEC: Th 10:30-12:00 REQ;F 14:00-15:30 REQ;",
         "Title": "ENERGY AND CARBON MARKETS: ECONOMICS, POLICY AND",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MBA684A",
+        "Department": "IME",
+        "Inst. email": "jayanta@iitk.ac.in",
+        "Instructor(s)": "J CHATTERJEE",
+        "Pre-requisites": "MBA631A",
+        "Schedule": "LEC: MW 17:00-18:30 REQ;",
+        "Title": "SALES AND DISTRIBUTION MANAGEMENT",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
@@ -2835,7 +3895,7 @@
         "Inst. email": "venkit@iitk.ac.in",
         "Instructor(s)": "P VENKITNARAYANAN",
         "Pre-requisites": "",
-        "Schedule": "LEC: T 12:30-13:30 REQ;W 12:00-13:00 REQ;",
+        "Schedule": "LEC: T 12:00-13:30 REQ;W 12:00-13:00 REQ;",
         "Title": "COMPOSITE MATERIALS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
@@ -2975,7 +4035,7 @@
         "Inst. email": "ntiwari@iitk.ac.in",
         "Instructor(s)": "N TIWARI",
         "Pre-requisites": "",
-        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:30-10:30 REQ;",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
         "Title": "ENGINEERING ACOUSTICS AND ITS CONTROL",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
@@ -3200,6 +4260,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MSE624A",
+        "Department": "MSE",
+        "Inst. email": "mk@iitk.ac.in",
+        "Instructor(s)": "MONICA KATIYAR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TF 14:00-15:30 REQ;",
+        "Title": "ENERGY MATERIALS AND TECHNOLOGIES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
         "Course No": "MSE631A",
         "Department": "MSE",
         "Inst. email": "ashishg@iitk.ac.in",
@@ -3320,20 +4390,20 @@
         "Units": "(L-T-P-D-U)         0-0-0-0-0"
     },
     {
-        "Course No": "MSO201A",
-        "Department": "MTH",
-        "Inst. email": "neeraj@iitk.ac.in",
-        "Instructor(s)": "NEERAJ MISRA",
+        "Course No": "ME698A",
+        "Department": "ME",
+        "Inst. email": "isharma@iitk.ac.in",
+        "Instructor(s)": "I SHARMA",
         "Pre-requisites": "",
-        "Schedule": "LEC: MThF 08:00-09:00 L7;T/D: W 08:00-09:00 REQ;",
-        "Title": "PROBABILITY AND STATISTICS",
-        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "INTRODUCTION HYDRODYNAMIC STABILITY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
         "Course No": "MTH101A",
         "Department": "MTH",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Inst. email": "psraj@iitk.ac.in",
+        "Instructor(s)": "P SHUNMUGARAJ",
         "Pre-requisites": "",
         "Schedule": "LEC: TWF 08:00-09:00 L8;T/D: Th 08:00-09:00 REQ;",
         "Title": "MATHEMATICS I",
@@ -3350,6 +4420,16 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
+        "Course No": "MTH205",
+        "Department": "MTH",
+        "Inst. email": "madan@iitk.ac.in",
+        "Instructor(s)": "S MADAN",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MF 16:00-17:00 REQ;W 14:00-15:00 REQ;",
+        "Title": "INTRODUCTION TO FOURIER SERIES",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH205A",
         "Department": "MTH",
         "Inst. email": "madan@iitk.ac.in",
@@ -3358,6 +4438,16 @@
         "Schedule": "LEC: MF 16:00-17:00 REQ;W 14:00-15:00 REQ;T/D:",
         "Title": "INTRODUCTION TO FOURIER SERIES",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "MTH215",
+        "Department": "MTH",
+        "Inst. email": "santhana@iitk.ac.in",
+        "Instructor(s)": "G SANTHANAM",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
+        "Title": "NUMBER THEORY",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH215A",
@@ -3370,6 +4460,16 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
+        "Course No": "MTH302",
+        "Department": "MTH",
+        "Inst. email": "mohua@iitk.ac.in",
+        "Instructor(s)": "M BANERJEE",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TWF 11:00-12:00 REQ;",
+        "Title": "MATHEMATICAL LOGIC",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH302A",
         "Department": "MTH",
         "Inst. email": "mohua@iitk.ac.in",
@@ -3378,6 +4478,16 @@
         "Schedule": "LEC: TWF 11:00-12:00 REQ;",
         "Title": "MATHEMATICAL LOGIC",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH304",
+        "Department": "MTH",
+        "Inst. email": "amandal@iitk.ac.in",
+        "Instructor(s)": "ASHIS MANDAL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;",
+        "Title": "TOPOLOGY",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH304A",
@@ -3400,6 +4510,16 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
+        "Course No": "MTH308",
+        "Department": "MTH",
+        "Inst. email": "rksr@iitk.ac.in",
+        "Instructor(s)": "R K S RATHORE (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;T/D: Th 09:00-10:00",
+        "Title": "PRINCIPLES OF NUMERICAL COMPUTATION",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH308A",
         "Department": "MTH",
         "Inst. email": "rksr@iitk.ac.in",
@@ -3408,6 +4528,16 @@
         "Schedule": "LEC: MWF 09:00-10:00 REQ;T/D: Th 09:00-10:00",
         "Title": "PRINCIPLES OF NUMERICAL COMPUTATIONS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "MTH309",
+        "Department": "MTH",
+        "Inst. email": "idd@iitk.ac.in",
+        "Instructor(s)": "I D DHARIYAL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MTF 14:00-15:00 REQ;T/D: W 10:00-11:00 REQ;",
+        "Title": "PROBABILITY THEORY",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH309A",
@@ -3430,14 +4560,54 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
+        "Course No": "MTH392A",
+        "Department": "MTH",
+        "Inst. email": "malayb@iitk.ac.in",
+        "Instructor(s)": "CONVENER DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "UNDER GRADUATE PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
+    },
+    {
+        "Course No": "MTH394A",
+        "Department": "MTH",
+        "Inst. email": "malayb@iitk.ac.in",
+        "Instructor(s)": "CONVENER DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "UNDER GRADUATE PROJECT IV",
+        "Units": "(L-T-P-D-U)         0-0-0-0-9"
+    },
+    {
+        "Course No": "MTH404",
+        "Department": "MTH",
+        "Inst. email": "spusti@iitk.ac.in",
+        "Instructor(s)": "S PUSTI",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MTF 14:00-15:00 REQ;T/D: W 11:00-12:00 REQ;",
+        "Title": "ANALYSIS II",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH404A",
         "Department": "MTH",
         "Inst. email": "spusti@iitk.ac.in",
         "Instructor(s)": "S PUSTI",
         "Pre-requisites": "MTH301A",
-        "Schedule": "LEC: MTF 14:00-15:00 REQ;T/D: W 14:00-15:00 REQ;",
+        "Schedule": "LEC: MTF 14:00-15:00 REQ;T/D: W 11:00-12:00 REQ;",
         "Title": "ANALYSIS II",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "MTH416",
+        "Department": "MTH",
+        "Inst. email": "smitra@iitk.ac.in",
+        "Instructor(s)": "S MITRA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 15:00-16:00 REQ;TW 16:00-17:00 REQ;T/D: F",
+        "Title": "REGRESSION ANALYSIS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH416A",
@@ -3450,6 +4620,16 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
+        "Course No": "MTH418",
+        "Department": "MTH",
+        "Inst. email": "kundu@iitk.ac.in",
+        "Instructor(s)": "D KUNDU",
+        "Pre-requisites": "ESO209/MTH311",
+        "Schedule": "LEC: TWF 15:00-16:00 REQ;T/D: M 10:00-11:00 REQ;",
+        "Title": "INFERENCE I",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH418A",
         "Department": "MTH",
         "Inst. email": "kundu@iitk.ac.in",
@@ -3460,14 +4640,34 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
+        "Course No": "MTH421",
+        "Department": "MTH",
+        "Inst. email": "pravir@iitk.ac.in",
+        "Instructor(s)": "P DUTT",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MTF 10:00-11:00 REQ;T/D: W 10:00-11:00 REQ;",
+        "Title": "ORDINARY DIFFERENTIAL EQUATIONS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH421A",
         "Department": "MTH",
         "Inst. email": "pravir@iitk.ac.in",
-        "Instructor(s)": "P DUTTA",
+        "Instructor(s)": "P DUTT",
         "Pre-requisites": "MTH102A",
         "Schedule": "LEC: MTF 10:00-11:00 REQ;T/D: W 10:00-11:00 REQ;",
         "Title": "ORDINARY DIFFERENTIAL EQUATIONS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "MTH424",
+        "Department": "MTH",
+        "Inst. email": "kaushik@iitk.ac.in",
+        "Instructor(s)": "KAUSHIK BAL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MF 16:00-17:00 REQ;W 14:00-15:00 REQ;",
+        "Title": "PARTIAL DIFFERENTIAL EQUATIONS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH424A",
@@ -3480,6 +4680,16 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
+        "Course No": "MTH426",
+        "Department": "MTH",
+        "Inst. email": "ghorai@iitk.ac.in",
+        "Instructor(s)": "S GHORAI (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
+        "Title": "AN INTRODUCTION TO MATHEMATICAL MODELLING",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "MTH426A",
         "Department": "MTH",
         "Inst. email": "ghorai@iitk.ac.in",
@@ -3488,6 +4698,16 @@
         "Schedule": "LEC: TTh 17:00-18:30 REQ;",
         "Title": "AN INTRODUCTION TO MATHEMATICAL MODELLING",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH511",
+        "Department": "MTH",
+        "Inst. email": "subhra@iitk.ac.in",
+        "Instructor(s)": "S S DHAR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MF 16:00-17:00 REQ;W 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL SIMULATION AND DATA ANALYSIS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH511A",
@@ -3500,6 +4720,16 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
+        "Course No": "MTH513",
+        "Department": "MTH",
+        "Inst. email": "shalab@iitk.a.cin",
+        "Instructor(s)": "SHALABH",
+        "Pre-requisites": "MTH416",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;T/D: Th 09:00-10:00",
+        "Title": "ANALYSIS OF VARIANCE",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH513A",
         "Department": "MTH",
         "Inst. email": "shalab@iitk.a.cin",
@@ -3508,6 +4738,16 @@
         "Schedule": "LEC: MWF 09:00-10:00 REQ;T/D: Th 09:00-10:00",
         "Title": "ANALYSIS OF VARIANCE",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "MTH514",
+        "Department": "MTH",
+        "Inst. email": "amitra@iitk.ac.in",
+        "Instructor(s)": "A MITRA",
+        "Pre-requisites": "MTH418",
+        "Schedule": "LEC: MTF 14:00-15:00 REQ;T/D: W 11:00-12:00 REQ;",
+        "Title": "MULTIVARIATE ANALYSIS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH514A",
@@ -3520,6 +4760,16 @@
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
+        "Course No": "MTH516",
+        "Department": "MTH",
+        "Inst. email": "smitra@iitk.ac.in",
+        "Instructor(s)": "S MITRA",
+        "Pre-requisites": "ESO209/MTH411",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;T/D: Th 09:00-10:00",
+        "Title": "NON-PARAMETRIC INFERENCE",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH516A",
         "Department": "MTH",
         "Inst. email": "smitra@iitk.ac.in",
@@ -3528,6 +4778,16 @@
         "Schedule": "LEC: MWF 09:00-10:00 REQ;T/D: Th 09:00-10:00",
         "Title": "NON-PARAMETRIC INFERENCE",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "MTH524",
+        "Department": "MTH",
+        "Inst. email": "akasha@iitk.ac.in",
+        "Instructor(s)": "A ANAND",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TThF 08:00-09:00 REQ;T/D: W 11:00-12:00",
+        "Title": "ALGORITHMS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH524A",
@@ -3540,14 +4800,44 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH552",
+        "Department": "MTH",
+        "Inst. email": "amitra@iitk.ac.in",
+        "Instructor(s)": "A MITRA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "STATISTICAL & AI TECHIQUES IN DATA MINING",
+        "Units": "(L-T-P-D-U)         0-0-0-0-4"
+    },
+    {
         "Course No": "MTH552A",
         "Department": "MTH",
         "Inst. email": "amitra@iitk.ac.in",
         "Instructor(s)": "A MITRA",
         "Pre-requisites": "",
-        "Schedule": "LEC: T 10:00-11:30 REQ;Th 12:00-13:30 REQ;",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
         "Title": "STATISTICAL & AI TECHIQUES IN DATA MINING",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH599",
+        "Department": "MTH",
+        "Inst. email": "malayb@iitk.ac.in",
+        "Instructor(s)": "CONVENER DUGC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "PROJECT- II",
+        "Units": "(L-T-P-D-U)         0-0-7-0-4"
+    },
+    {
+        "Course No": "MTH622",
+        "Department": "MTH",
+        "Inst. email": "gp@iitk.ac.in",
+        "Instructor(s)": "G P KAPOOR",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: M 15:00-16:00 REQ;TW 16:00-17:00 REQ;",
+        "Title": "FRACTAL INTERPOLATION AND APPLICATIONS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "MTH622A",
@@ -3560,6 +4850,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH624",
+        "Department": "MTH",
+        "Inst. email": "abhipal@iitk.ac.in",
+        "Instructor(s)": "A PAL",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: MW 17:00-18:30 REQ;",
+        "Title": "DIFFERENTIABLE MANIFOLDS AND LIE GROUPS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "MTH624A",
         "Department": "MTH",
         "Inst. email": "abhipal@iitk.ac.in",
@@ -3568,6 +4868,16 @@
         "Schedule": "LEC: MW 17:00-18:30 REQ;",
         "Title": "DIFFERENTIABLE MANIFOLDS AND LIE GROUPS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH628",
+        "Department": "MTH",
+        "Inst. email": "adar@iitk.ac.in",
+        "Instructor(s)": "A DAR",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "TOPICS IN TOPOLOGY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "MTH628A",
@@ -3580,6 +4890,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH632",
+        "Department": "MTH",
+        "Inst. email": "chavan@iitk.ac.in",
+        "Instructor(s)": "S CHAVAN",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
+        "Title": "SPECTRAL THEORY FOR SELF-ADJOINT OPERATORS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "MTH632A",
         "Department": "MTH",
         "Inst. email": "chavan@iitk.ac.in",
@@ -3588,6 +4908,36 @@
         "Schedule": "LEC: MWF 09:00-10:00 REQ;",
         "Title": "SPECTRAL THEORY FOR SELF-ADJOINT OPERATORS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH638",
+        "Department": "MTH",
+        "Inst. email": "parasar@iitk.ac.in",
+        "Instructor(s)": "P MOHANTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
+        "Title": "ABSTRACT HARMONIC ANALYSIS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
+        "Course No": "MTH638A",
+        "Department": "MTH",
+        "Inst. email": "parasar@iitk.ac.in",
+        "Instructor(s)": "P MOHANTY",
+        "Pre-requisites": "Instructor\u00c2\u00bfs permission",
+        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
+        "Title": "ABSTRACT HARMONIC ANALYSIS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH639",
+        "Department": "MTH",
+        "Inst. email": "manjul@iitk.ac.in",
+        "Instructor(s)": "MANJUL GUPTA",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "LOCALLY CONVEX SPACES",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "MTH639A",
@@ -3600,6 +4950,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH641",
+        "Department": "MTH",
+        "Inst. email": "santosha@iitk.ac.in",
+        "Instructor(s)": "S K PATTANAYAK",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TThF 08:00-09:00 REQ;",
+        "Title": "INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATION",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "MTH641A",
         "Department": "MTH",
         "Inst. email": "santosha@iitk.ac.in",
@@ -3608,6 +4968,36 @@
         "Schedule": "LEC: TThF 08:00-09:00 REQ;",
         "Title": "INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATION",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH652",
+        "Department": "MTH",
+        "Inst. email": "rrawat@iitk.ac.in",
+        "Instructor(s)": "R RAWAT",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 15:00-16:00 REQ;TW 16:00-17:00 REQ;",
+        "Title": "ADVANCED CALCULUS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
+        "Course No": "MTH652A",
+        "Department": "MTH",
+        "Inst. email": "rrawat@iitk.ac.in",
+        "Instructor(s)": "R RAWAT",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 15:00-16:00 REQ;TW 16:00-17:00 REQ;",
+        "Title": "ADVANCED CALCULUS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH653",
+        "Department": "MTH",
+        "Inst. email": "dhiren@iitk.ac.in",
+        "Instructor(s)": "D BAHUGUNA",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: MW 17:00-18:30 REQ;",
+        "Title": "INTEGRAL EQUATIONS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "MTH653A",
@@ -3620,6 +5010,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH656",
+        "Department": "MTH",
+        "Inst. email": "tmk@iitk.ac.in",
+        "Instructor(s)": "T MUTHUKUMAR",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "SOBOLEV SPACES AND APPLICATIONS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "MTH656A",
         "Department": "MTH",
         "Inst. email": "tmk@iitk.ac.in",
@@ -3628,6 +5028,16 @@
         "Schedule": "LEC: TW 12:00-13:30 REQ;",
         "Title": "SOBOLEV SPACES AND APPLICATIONS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH657",
+        "Department": "MTH",
+        "Inst. email": "arlal@iitk.ac.in",
+        "Instructor(s)": "A K LAL",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;",
+        "Title": "GRAPH THEORY",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
     },
     {
         "Course No": "MTH657A",
@@ -3640,6 +5050,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH664",
+        "Department": "MTH",
+        "Inst. email": "prawal@iitk.ac.in",
+        "Instructor(s)": "P SINHA",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
+        "Title": "TRIBOLOGY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "MTH664A",
         "Department": "MTH",
         "Inst. email": "prawal@iitk.ac.in",
@@ -3648,6 +5068,16 @@
         "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
         "Title": "TRIBOLOGY",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH673",
+        "Department": "MTH",
+        "Inst. email": "subhra@iitk.ac.in",
+        "Instructor(s)": "S S DHAR",
+        "Pre-requisites": "MTH418",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "ROBUST STATISTICAL METHODS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "MTH673A",
@@ -3660,6 +5090,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH676",
+        "Department": "MTH",
+        "Inst. email": "shalab@iitk.a.cin",
+        "Instructor(s)": "SHALABH",
+        "Pre-requisites": "#",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "ECONOMETRICS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
         "Course No": "MTH676A",
         "Department": "MTH",
         "Inst. email": "shalab@iitk.a.cin",
@@ -3668,6 +5108,16 @@
         "Schedule": "LEC: TW 12:00-13:30 REQ;",
         "Title": "ECONOMETRICS",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH679",
+        "Department": "MTH",
+        "Inst. email": "malayb@iitk.ac.in",
+        "Instructor(s)": "MALAY BANERJEE",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;",
+        "Title": "SPATIO-TEMPORAL MODELS IN MATHEMATICAL BIOLOGY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "MTH679A",
@@ -3680,6 +5130,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
+        "Course No": "MTH693",
+        "Department": "MTH",
+        "Inst. email": "kadal@iitk.ac.in",
+        "Instructor(s)": "M K KADALBAJOO",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL",
+        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+    },
+    {
         "Course No": "MTH693A",
         "Department": "MTH",
         "Inst. email": "kadal@iitk.ac.in",
@@ -3688,6 +5148,16 @@
         "Schedule": "LEC: TW 12:00-13:30 REQ;",
         "Title": "NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH721",
+        "Department": "MTH",
+        "Inst. email": "bvrk@iitk.ac.in",
+        "Instructor(s)": "B V R KUMAR",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TW 12:00-13:30 REQ;",
+        "Title": "COMPUTATIONAL FINANCIAL MATHEMATICS-A PDE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
         "Course No": "MTH721A",
@@ -3710,6 +5180,16 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
+        "Course No": "MTH751A",
+        "Department": "MTH",
+        "Inst. email": "akmaloo@iitk.ac.in",
+        "Instructor(s)": "A K MALOO",
+        "Pre-requisites": "",
+        "Schedule": "LEC: M 15:00-16:00 REQ;TW 16:00-17:00 REQ;",
+        "Title": "ALGEBRA",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
         "Course No": "MTH752",
         "Department": "MTH",
         "Inst. email": "peeyush@iitk.ac.in",
@@ -3717,6 +5197,26 @@
         "Pre-requisites": "",
         "Schedule": "LEC: TWF 15:00-16:00 REQ;",
         "Title": "MATHEMATICAL METHODS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+    },
+    {
+        "Course No": "MTH752A",
+        "Department": "MTH",
+        "Inst. email": "peeyush@iitk.ac.in",
+        "Instructor(s)": "P CHANDRA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: TWF 15:00-16:00 REQ;",
+        "Title": "MATHEMATICAL METHODS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "MTH759",
+        "Department": "MTH",
+        "Inst. email": "debasis@iitk.ac.in",
+        "Instructor(s)": "D SEN",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 17:00-18:30 REQ;",
+        "Title": "ALGEBRIC TOPOLOGY II",
         "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
@@ -3740,6 +5240,66 @@
         "Units": "(L-T-P-D-U)         0-0-0-0-0"
     },
     {
+        "Course No": "NT614A",
+        "Department": "NET",
+        "Inst. email": "pmunshi@iitk.ac.in",
+        "Instructor(s)": "P MUNSHI, O P SINGH",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
+        "Title": "NUCLEAR POWER ENGINEERING II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "NT621A",
+        "Department": "NET",
+        "Inst. email": "pmunshi@iitk.ac.in",
+        "Instructor(s)": "P MUNSHI, O P SINGH",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "NUCLEAR MEASUREMENTS LABORATORY",
+        "Units": "(L-T-P-D-U)         1-0-6-0-9"
+    },
+    {
+        "Course No": "NT631A",
+        "Department": "NET",
+        "Inst. email": "shikhap@iitk.ac.in",
+        "Instructor(s)": "SHIKHA PRASAD",
+        "Pre-requisites": "NT602A MSO203B",
+        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
+        "Title": "NEUTRON TRANSPORT THEORY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "NT651A",
+        "Department": "NET",
+        "Inst. email": "singhop@iitk.ac.in",
+        "Instructor(s)": "O P SINGH",
+        "Pre-requisites": "NT611A",
+        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
+        "Title": "FAST REACTOR TECHNOLOGY",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "NT652A",
+        "Department": "NET",
+        "Inst. email": "akhanna@iitk.ac.in",
+        "Instructor(s)": "ASHOK KHANNA",
+        "Pre-requisites": "NT611A",
+        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
+        "Title": "NUCLEAR FUEL CYCLE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "NT661A",
+        "Department": "NET",
+        "Inst. email": "akhanna@iitk.ac.in",
+        "Instructor(s)": "ASHOK KHANNA",
+        "Pre-requisites": "NT602A NT611A",
+        "Schedule": "LEC: MW 17:00-18:30 REQ;",
+        "Title": "SAFETY ANALYSIS OF NUCLEAR POWER REACTORS",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
         "Course No": "NT699",
         "Department": "NET",
         "Inst. email": "pmunshi@iitk.ac.in",
@@ -3760,14 +5320,34 @@
         "Units": "(L-T-P-D-U)         0-0-0-0-0"
     },
     {
-        "Course No": "PHI141",
-        "Department": "HSS",
-        "Inst. email": "philosek@iitk.ac.in",
-        "Instructor(s)": "PHILOSE KOSHY (HSS1)",
+        "Course No": "PE102",
+        "Department": "SPEC",
+        "Inst. email": "nrpatra@iitk.ac.in",
+        "Instructor(s)": "SPEC",
         "Pre-requisites": "",
-        "Schedule": "LEC: MWTh 17:00-18:00 REQ;T/D: T 17:00-18:00",
-        "Title": "INTRODUCTION TO PHILOSOPHY",
-        "Units": "(L-T-P-D-U)         3-1-0-0-4"
+        "Schedule": "LEC:",
+        "Title": "EVENING EXERCISE",
+        "Units": "(L-T-P-D-U)         0-0-0-0-0"
+    },
+    {
+        "Course No": "PE102A",
+        "Department": "SPEC",
+        "Inst. email": "nrpatra@iitk.ac.in",
+        "Instructor(s)": "SPEC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "EVENING EXERCISE",
+        "Units": "(L-T-P-D-U)         0-0-3-0-3"
+    },
+    {
+        "Course No": "PE102A",
+        "Department": "SPEC",
+        "Inst. email": "nrpatra@iitk.ac.in",
+        "Instructor(s)": "SPEC",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "EVENING EXERCISE",
+        "Units": "(L-T-P-D-U)         0-0-3-0-3"
     },
     {
         "Course No": "PHI141A",
@@ -3830,24 +5410,24 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-4"
     },
     {
-        "Course No": "PHI455A",
-        "Department": "HSS",
-        "Inst. email": "avrs@iitk.ac.in",
-        "Instructor(s)": "A V R SHARMA (HSS21)",
+        "Course No": "PE102A",
+        "Department": "SPEC",
+        "Inst. email": "nrpatra@iitk.ac.in",
+        "Instructor(s)": "SPEC",
         "Pre-requisites": "",
-        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
-        "Title": "PHILOSOPHICAL LOGIC",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Schedule": "LEC:",
+        "Title": "EVENING EXERCISE",
+        "Units": "(L-T-P-D-U)         0-0-3-0-3"
     },
     {
-        "Course No": "PHI751A",
-        "Department": "HSS",
-        "Inst. email": "philosek@iitk.ac.in",
-        "Instructor(s)": "PHILOSE KOSHY",
+        "Course No": "PE102A",
+        "Department": "SPEC",
+        "Inst. email": "nrpatra@iitk.ac.in",
+        "Instructor(s)": "SPEC",
         "Pre-requisites": "",
-        "Schedule": "LEC: TW 12:00-13:30 REQ;",
-        "Title": "TWENTIETH CENTURY PHILOSOPHY-I",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Schedule": "LEC:",
+        "Title": "EVENING EXERCISE",
+        "Units": "(L-T-P-D-U)         0-0-3-0-3"
     },
     {
         "Course No": "PHI752A",
@@ -3860,173 +5440,223 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHI774A",
+        "Course No": "PHI755A",
         "Department": "HSS",
-        "Inst. email": "vineet@iitk.ac.in",
-        "Instructor(s)": "VINEET SAHU",
+        "Inst. email": "avrs@iitk.ac.in",
+        "Instructor(s)": "A V R SARMA",
         "Pre-requisites": "",
-        "Schedule": "LEC: TF 14:00-15:30 REQ;",
-        "Title": "SOCIAL AND POLITICAL PHILOSPHY",
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHI799",
+        "Course No": "PHI755A",
         "Department": "HSS",
-        "Inst. email": "arunk@iitk.ac.in",
-        "Instructor(s)": "CONVENOR DPGC",
+        "Inst. email": "avrs@iitk.ac.in",
+        "Instructor(s)": "A V R SARMA",
         "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "PHD THESIS",
-        "Units": "(L-T-P-D-U)         0-0-0-0-0"
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHY101A",
-        "Department": "PHY",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Course No": "PHI755A",
+        "Department": "HSS",
+        "Inst. email": "avrs@iitk.ac.in",
+        "Instructor(s)": "A V R SARMA",
         "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "PHYSICS LABORATORY",
-        "Units": "(L-T-P-D-U)         0-0-3-0-3"
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHY102A",
-        "Department": "PHY",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Course No": "PHI755A",
+        "Department": "HSS",
+        "Inst. email": "avrs@iitk.ac.in",
+        "Instructor(s)": "A V R SARMA",
         "Pre-requisites": "",
-        "Schedule": "LEC: MWF 15:00-16:00 L7;T/D: Th 15:00-16:00 REQ;",
-        "Title": "PHYSICS-I",
-        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHY103A",
-        "Department": "PHY",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Course No": "PHI755A",
+        "Department": "HSS",
+        "Inst. email": "avrs@iitk.ac.in",
+        "Instructor(s)": "A V R SARMA",
         "Pre-requisites": "",
-        "Schedule": "LEC: MWF 11:00-12:00 L7;T/D: T 11:00-12:00 REQ;",
-        "Title": "PHYSICS-II",
-        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHY210A",
-        "Department": "PHY",
-        "Inst. email": "debch@iitk.ac.in",
-        "Instructor(s)": "D CHOWDHURY",
+        "Course No": "PHI755A",
+        "Department": "HSS",
+        "Inst. email": "avrs@iitk.ac.in",
+        "Instructor(s)": "A V R SARMA",
         "Pre-requisites": "",
-        "Schedule": "LEC: TThF 11:00-12:00 REQ;T/D: W 11:00-12:00",
-        "Title": "THERMAL PHYSICS",
-        "Units": "(L-T-P-D-U)         3-1-0-0-6"
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "PHI755A",
+        "Department": "HSS",
+        "Inst. email": "avrs@iitk.ac.in",
+        "Instructor(s)": "A V R SARMA",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 15:30-17:00 REQ;",
+        "Title": "ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
         "Course No": "PHY226B",
         "Department": "PHY",
         "Inst. email": "sengupta@iitk.ac.in",
-        "Instructor(s)": "G SENGUPTA",
+        "Instructor(s)": "G SENGUPTA (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: TThF 11:00-12:00 REQ;T/D: W 11:00-12:00",
         "Title": "RELATIVITY",
         "Units": "(L-T-P-D-U)         3-1-0-0-6"
     },
     {
-        "Course No": "PHY307",
+        "Course No": "PHY226B",
         "Department": "PHY",
-        "Inst. email": "hwanare@iitk.ac.in",
-        "Instructor(s)": "H WANARE (OE)",
+        "Inst. email": "sengupta@iitk.ac.in",
+        "Instructor(s)": "G SENGUPTA (OE)",
         "Pre-requisites": "",
-        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "MODERN OPTICS (ITS PHYSICS & ENGINEERING)",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+        "Schedule": "LEC: TThF 11:00-12:00 REQ;T/D: W 11:00-12:00",
+        "Title": "RELATIVITY",
+        "Units": "(L-T-P-D-U)         3-1-0-0-6"
     },
     {
-        "Course No": "PHY307A",
+        "Course No": "PHY226B",
         "Department": "PHY",
-        "Inst. email": "hwanare@iitk.ac.in",
-        "Instructor(s)": "H WANARE (OE)",
+        "Inst. email": "sengupta@iitk.ac.in",
+        "Instructor(s)": "G SENGUPTA (OE)",
         "Pre-requisites": "",
-        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "MODERN OPTICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Schedule": "LEC: TThF 11:00-12:00 REQ;T/D: W 11:00-12:00",
+        "Title": "RELATIVITY",
+        "Units": "(L-T-P-D-U)         3-1-0-0-6"
     },
     {
-        "Course No": "PHY399A",
+        "Course No": "PHY226B",
         "Department": "PHY",
-        "Inst. email": "ynm@iitk.ac.in",
-        "Instructor(s)": "Y N MOHAPATRA",
+        "Inst. email": "sengupta@iitk.ac.in",
+        "Instructor(s)": "G SENGUPTA (OE)",
         "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "TECHNICAL COMMUNICATION",
-        "Units": "(L-T-P-D-U)         0-0-0-2-2"
+        "Schedule": "LEC: TThF 11:00-12:00 REQ;T/D: W 11:00-12:00",
+        "Title": "RELATIVITY",
+        "Units": "(L-T-P-D-U)         3-1-0-0-6"
     },
     {
         "Course No": "PHY412A",
         "Department": "PHY",
         "Inst. email": "anjankg@iitk.ac.in",
-        "Instructor(s)": "A K GUPTA",
+        "Instructor(s)": "A K GUPTA (OE)",
         "Pre-requisites": "",
         "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
         "Title": "STATISTICAL MECHANICS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
-        "Course No": "PHY422A",
+        "Course No": "PHY412A",
         "Department": "PHY",
-        "Inst. email": "sar@iitk.ac.in",
-        "Instructor(s)": "S A RAMAKRISHNA",
-        "Pre-requisites": "PHY421A",
-        "Schedule": "LEC: TThF 08:00-09:00 REQ;T/D: W 11:00-12:00",
-        "Title": "MATHEMATICAL METHODS II",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
-        "Course No": "PHY432A",
+        "Course No": "PHY412A",
         "Department": "PHY",
-        "Inst. email": "tapo@iitk.ac.in",
-        "Instructor(s)": "T SARKAR",
-        "Pre-requisites": "PHY431A",
-        "Schedule": "LEC: TW 12:00-13:30 REQ;T/D: F 11:00-12:00 REQ;",
-        "Title": "QUANTUM MECHANICS II",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
-        "Course No": "PHY461A",
+        "Course No": "PHY412A",
         "Department": "PHY",
-        "Inst. email": "zakir@iitk.ac.in",
-        "Instructor(s)": "Z HOSSAIN",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
         "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "EXPERIMENTAL PHYSICS I",
-        "Units": "(L-T-P-D-U)         0-0-8-0-8"
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
-        "Course No": "PHY462A",
+        "Course No": "PHY412A",
         "Department": "PHY",
-        "Inst. email": "zakir@iitk.ac.in",
-        "Instructor(s)": "Z HOSSAIN",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
         "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "EXPERIMENTAL PHYSICS II",
-        "Units": "(L-T-P-D-U)         0-0-8-0-8"
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
-        "Course No": "PHY473A",
+        "Course No": "PHY412A",
         "Department": "PHY",
-        "Inst. email": "mkv@iitk.ac.in",
-        "Instructor(s)": "M K VERMA",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
         "Pre-requisites": "",
-        "Schedule": "LEC: M 11:00-12:00 REQ;F 10:00-11:00 REQ;",
-        "Title": "COMPUTATIONAL PHYSICS",
-        "Units": "(L-T-P-D-U)         2-0-2-0-8"
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
-        "Course No": "PHY524A",
+        "Course No": "PHY412A",
         "Department": "PHY",
-        "Inst. email": "gsaikat@iitk.ac.in",
-        "Instructor(s)": "S GHOSH, D SAHDEV",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
         "Pre-requisites": "",
-        "Schedule": "LEC: M 12:00-13:30 REQ;T 09:00-10:30 REQ;T/D: F",
-        "Title": "INTRODUCTION TO ATOMIC & NUCLEAR PHYSICS",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "PHY412A",
+        "Department": "PHY",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "PHY412A",
+        "Department": "PHY",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "PHY412A",
+        "Department": "PHY",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
+        "Units": "(L-T-P-D-U)         3-1-0-0-11"
+    },
+    {
+        "Course No": "PHY412A",
+        "Department": "PHY",
+        "Inst. email": "anjankg@iitk.ac.in",
+        "Instructor(s)": "A K GUPTA (OE)",
+        "Pre-requisites": "",
+        "Schedule": "LEC: MW 10:00-11:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "STATISTICAL MECHANICS",
         "Units": "(L-T-P-D-U)         3-1-0-0-11"
     },
     {
@@ -4040,523 +5670,733 @@
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHY557A",
+        "Course No": "PHY553A",
         "Department": "PHY",
-        "Inst. email": "anjankg@iitk.ac.in",
-        "Instructor(s)": "A K GUPTA",
-        "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "BATCHLOR OF SCIENCE PROJECT -III",
+        "Inst. email": "shitla@iitk.ac.in",
+        "Instructor(s)": "S M TRIPATHI",
+        "Pre-requisites": "PHY552A",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "CLASSICAL ELECTRODYNAMICS II",
         "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHY558A",
+        "Course No": "PHY553A",
         "Department": "PHY",
-        "Inst. email": "anjankg@iitk.ac.in",
-        "Instructor(s)": "A K GUPTA",
-        "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "BATCHLOR OF SCIENCE PROJECT -IV",
-        "Units": "(L-T-P-D-U)         0-0-1-2-9"
+        "Inst. email": "shitla@iitk.ac.in",
+        "Instructor(s)": "S M TRIPATHI",
+        "Pre-requisites": "PHY552A",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "CLASSICAL ELECTRODYNAMICS II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
     },
     {
-        "Course No": "PHY590A",
+        "Course No": "PHY553A",
         "Department": "PHY",
-        "Inst. email": "kcharya@iitk.ac.in",
-        "Instructor(s)": "KRISHNACHARYA",
-        "Pre-requisites": "",
+        "Inst. email": "shitla@iitk.ac.in",
+        "Instructor(s)": "S M TRIPATHI",
+        "Pre-requisites": "PHY552A",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "CLASSICAL ELECTRODYNAMICS II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "PHY553A",
+        "Department": "PHY",
+        "Inst. email": "shitla@iitk.ac.in",
+        "Instructor(s)": "S M TRIPATHI",
+        "Pre-requisites": "PHY552A",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "CLASSICAL ELECTRODYNAMICS II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "PHY553A",
+        "Department": "PHY",
+        "Inst. email": "shitla@iitk.ac.in",
+        "Instructor(s)": "S M TRIPATHI",
+        "Pre-requisites": "PHY552A",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "CLASSICAL ELECTRODYNAMICS II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "PHY553A",
+        "Department": "PHY",
+        "Inst. email": "shitla@iitk.ac.in",
+        "Instructor(s)": "S M TRIPATHI",
+        "Pre-requisites": "PHY552A",
+        "Schedule": "LEC: MW 08:00-09:00 REQ;Th 14:00-15:00 REQ;T/D:",
+        "Title": "CLASSICAL ELECTRODYNAMICS II",
+        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+    },
+    {
+        "Course No": "PHY590",
+        "Department": "PHY",
+        "Inst. email": "sar@iitk.ac.in",
+        "Instructor(s)": "S A RAMAKRISHNA",
+        "Pre-requisites": "#",
         "Schedule": "LEC:",
         "Title": "SPECIAL TOPICS IN PHYSICS",
-        "Units": "(L-T-P-D-U)         0-0-0-0-9"
+        "Units": "(L-T-P-D-U)         0-0-8-0-4"
     },
     {
-        "Course No": "PHY602A",
+        "Course No": "PHY590",
         "Department": "PHY",
-        "Inst. email": "vmani@iitk.ac.in",
-        "Instructor(s)": "V SUBRAHMANYAM",
-        "Pre-requisites": "",
-        "Schedule": "LEC: M 15:00-16:00 REQ;T/D: TW 16:00-17:00 REQ;F",
-        "Title": "REVIEW OF QUANTUM MECHANICS",
-        "Units": "(L-T-P-D-U)         1-3-0-0-9"
-    },
-    {
-        "Course No": "PHY616",
-        "Department": "PHY",
-        "Inst. email": "kcharya@iitk.ac.in",
-        "Instructor(s)": "KRISHNACHARYA",
+        "Inst. email": "sar@iitk.ac.in",
+        "Instructor(s)": "S A RAMAKRISHNA",
         "Pre-requisites": "#",
-        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
-        "Title": "SOFT MATTER PHYSICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN PHYSICS",
+        "Units": "(L-T-P-D-U)         0-0-8-0-4"
     },
     {
-        "Course No": "PHY616A",
+        "Course No": "PHY590",
         "Department": "PHY",
-        "Inst. email": "kcharya@iitk.ac.in",
-        "Instructor(s)": "KRISHNACHARYA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
-        "Title": "SOFT MATTER PHYSICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PHY618A",
-        "Department": "PHY",
-        "Inst. email": "debasis@iitk.ac.in",
-        "Instructor(s)": "D CHOWDHURY",
-        "Pre-requisites": "",
-        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "PHYSICS OF LIFE",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PHY621",
-        "Department": "PHY",
-        "Inst. email": "rprasad@iitk.ac.in",
-        "Instructor(s)": "R PRASAD",
-        "Pre-requisites": "PHY543",
-        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
-        "Title": "ELECTRONIC STRUCTURE OF MATERIALS",
-        "Units": "(L-T-P-D-U)         4-0-0-0-4"
-    },
-    {
-        "Course No": "PHY621A",
-        "Department": "PHY",
-        "Inst. email": "rprasad@iitk.ac.in",
-        "Instructor(s)": "R PRASAD",
-        "Pre-requisites": "PHY543A",
-        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
-        "Title": "ELECTRONIC STRUCTURE OF MATERIALS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PHY644",
-        "Department": "PHY",
-        "Inst. email": "rvijaya@iitk.ac.in",
-        "Instructor(s)": "R VIJAYA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TF 14:00-15:30 REQ;",
-        "Title": "QUANTUM ELECTRONICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
-    },
-    {
-        "Course No": "PHY644A",
-        "Department": "PHY",
-        "Inst. email": "rvijaya@iitk.ac.in",
-        "Instructor(s)": "R VIJAYA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TF 14:00-15:30 REQ;",
-        "Title": "QUANTUM ELECTRONICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PHY660",
-        "Department": "PHY",
-        "Inst. email": "pkjain@iitk.ac.in",
-        "Instructor(s)": "P JAIN, SURATNA DAS",
+        "Inst. email": "sar@iitk.ac.in",
+        "Instructor(s)": "S A RAMAKRISHNA",
         "Pre-requisites": "#",
-        "Schedule": "LEC: TF 15:30-16:30 REQ;",
-        "Title": "GENERAL RELATIVITY & COSMOLOGY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN PHYSICS",
+        "Units": "(L-T-P-D-U)         0-0-8-0-4"
     },
     {
-        "Course No": "PHY660A",
+        "Course No": "PHY590",
         "Department": "PHY",
-        "Inst. email": "pkjain@iitk.ac.in",
-        "Instructor(s)": "P JAIN, SURATNA DAS",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TF 15:30-17:00 REQ;",
-        "Title": "GENERAL RELATIVITY & COSMOLOGY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Inst. email": "sar@iitk.ac.in",
+        "Instructor(s)": "S A RAMAKRISHNA",
+        "Pre-requisites": "#",
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN PHYSICS",
+        "Units": "(L-T-P-D-U)         0-0-8-0-4"
     },
     {
-        "Course No": "PHY664A",
+        "Course No": "PHY590",
         "Department": "PHY",
-        "Inst. email": "evijaya@iitk.ac.in",
-        "Instructor(s)": "R VIJAYA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TF 14:00-15:30 REQ;",
-        "Title": "QUANTUM ELECTRONICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Inst. email": "sar@iitk.ac.in",
+        "Instructor(s)": "S A RAMAKRISHNA",
+        "Pre-requisites": "#",
+        "Schedule": "LEC:",
+        "Title": "SPECIAL TOPICS IN PHYSICS",
+        "Units": "(L-T-P-D-U)         0-0-8-0-4"
     },
     {
-        "Course No": "PHY680",
-        "Department": "PHY",
-        "Inst. email": "kaushikb@iitk.ac.in",
-        "Instructor(s)": "K BHATTACHARYA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 14:00-15:30 REQ;",
-        "Title": "PARTICLE PHYSICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
-    },
-    {
-        "Course No": "PHY680A",
-        "Department": "PHY",
-        "Inst. email": "kaushikb@iitk.ac.in",
-        "Instructor(s)": "K BHATTACHARYA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 14:00-15:30 REQ;",
-        "Title": "PARTICLE PHYSICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PHY692A",
-        "Department": "PHY",
-        "Inst. email": "guptaraj@iitk.ac.in",
-        "Instructor(s)": "R GUPTA, A H KELKAR",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MWF 09:00-10:00 REQ;",
-        "Title": "MEASUREMENT TECHNIQUES",
-        "Units": "(L-T-P-D-U)         3-0-3-0-12"
-    },
-    {
-        "Course No": "PHY693",
-        "Department": "PHY",
-        "Inst. email": "amitag@iitk.ac.in",
-        "Instructor(s)": "A K AGRAWAL",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 15:30-17:00 REQ;",
-        "Title": "INTRODUCTION TO SPINTRONICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
-    },
-    {
-        "Course No": "PHY693A",
-        "Department": "PHY",
-        "Inst. email": "amitag@iitk.ac.in",
-        "Instructor(s)": "A K AGRAWAL",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 15:30-17:00 REQ;",
-        "Title": "INTRODUCTION TO SPINTRONICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PHY695",
+        "Course No": "PHY599A",
         "Department": "PHY",
         "Inst. email": "sagarc@iitk.ac.in",
         "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
-        "Schedule": "LEC: MW 17:00-18:30 REQ;",
-        "Title": "NONLINEAR SYSTEM & DYNAMICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     },
     {
-        "Course No": "PHY695A",
+        "Course No": "PHY599A",
         "Department": "PHY",
         "Inst. email": "sagarc@iitk.ac.in",
         "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
-        "Schedule": "LEC: MW 17:00-18:30 REQ;",
-        "Title": "NONLINEAR SYSTEM & DYNAMICS",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     },
     {
-        "Course No": "PHY799",
+        "Course No": "PHY599A",
         "Department": "PHY",
-        "Inst. email": "tapo@iitk.ac.in",
-        "Instructor(s)": "CONVENOR DPGC",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
         "Schedule": "LEC:",
-        "Title": "RESEARCH",
-        "Units": "(L-T-P-D-U)         0-0-0-0-0"
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     },
     {
-        "Course No": "PSE699",
-        "Department": "PSE",
-        "Inst. email": "rvijaya@iitk.ac.in",
-        "Instructor(s)": "CONVENOR DPGC",
-        "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "M. TECH THESIS",
-        "Units": "(L-T-P-D-U)         0-0-0-0-0"
-    },
-    {
-        "Course No": "PSE799",
-        "Department": "PSE",
-        "Inst. email": "rvijaya@iitk.ac.in",
-        "Instructor(s)": "CONVENOR DPGC",
-        "Pre-requisites": "",
-        "Schedule": "LEC:",
-        "Title": "PHD THESIS",
-        "Units": "(L-T-P-D-U)         0-0-0-0-0"
-    },
-    {
-        "Course No": "PSO201A",
+        "Course No": "PHY599A",
         "Department": "PHY",
-        "Inst. email": "mkh@iitk.ac.in",
-        "Instructor(s)": "M K HARBOLA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MTh 12:00-13:00 L2;T/D: W 12:00-13:00 REQ;",
-        "Title": "QUANTUM PHYSICS",
-        "Units": "(L-T-P-D-U)         2-1-0-0-8"
-    },
-    {
-        "Course No": "PSY151",
-        "Department": "HSS",
-        "Inst. email": "shikha@iitk.ac.in",
-        "Instructor(s)": "SHIKHA DIXIT (HSS1)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MWTh 17:00-18:00 REQ;T/D: T 17:00-18:00",
-        "Title": "INTRODUCTION TO PSYCHOLOGY",
-        "Units": "(L-T-P-D-U)         3-1-0-0-4"
-    },
-    {
-        "Course No": "PSY151A",
-        "Department": "HSS",
-        "Inst. email": "shikha@iitk.ac.in",
-        "Instructor(s)": "SHIKHA DIXIT (HSS1)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MWTh 17:00-18:00 REQ;T/D: T 17:00-18:00",
-        "Title": "INTRODUCTION TO PSYCHOLOGY",
-        "Units": "(L-T-P-D-U)         3-1-0-0-11"
-    },
-    {
-        "Course No": "PSY451",
-        "Department": "HSS",
-        "Inst. email": "brajb@iitk.ac.in",
-        "Instructor(s)": "BRAJ BHUSHAN (HSS22)",
-        "Pre-requisites": "#",
-        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "PSYCHOLOGY OF ADJUSTMENT",
-        "Units": "(L-T-P-D-U)         3-1-0-0-4"
-    },
-    {
-        "Course No": "PSY451A",
-        "Department": "HSS",
-        "Inst. email": "brajb@iitk.ac.in",
-        "Instructor(s)": "BRAJ BHUSHAN (HSS22)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: M 11:00-12:00 REQ;Th 10:00-11:00 REQ;F",
-        "Title": "PSYCHOLOGY OF ADJUSTMENT",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PSY454",
-        "Department": "HSS",
-        "Inst. email": "krp@iitk.ac.in",
-        "Instructor(s)": "K RAVI PRIYA (HSS23)",
-        "Pre-requisites": "#",
-        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
-        "Title": "SOCIAL PSYCHOLOGY",
-        "Units": "(L-T-P-D-U)         3-1-0-0-4"
-    },
-    {
-        "Course No": "PSY454A",
-        "Department": "HSS",
-        "Inst. email": "krp@iitk.ac.in",
-        "Instructor(s)": "K RAVI PRIYA (HSS23)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
-        "Title": "SOCIAL PSYCHOLOGY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PSY458",
-        "Department": "HSS",
-        "Inst. email": "aks@iitk.ac.in",
-        "Instructor(s)": "A K SINHA (HSS21)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
-        "Title": "ORGANIZATIONAL AND ADMINISTRATIVE PSYCHOLOGY",
-        "Units": "(L-T-P-D-U)         3-1-0-0-4"
-    },
-    {
-        "Course No": "PSY458A",
-        "Department": "HSS",
-        "Inst. email": "aks@iitk.ac.in",
-        "Instructor(s)": "A K SINHA (HSS21)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
-        "Title": "ORGANIZATIONAL AND ADMINISTRATIVE PSYCHOLOGY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PSY776",
-        "Department": "HSS",
-        "Inst. email": "brajb@iitk.ac.in",
-        "Instructor(s)": "BRAJ BHUSHAN",
-        "Pre-requisites": "",
-        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
-        "Title": "SEMINAR COURSE IN PSYCHOLOGY",
-        "Units": "(L-T-P-D-U)         0-0-0-0-4"
-    },
-    {
-        "Course No": "PSY787A",
-        "Department": "HSS",
-        "Inst. email": "aks@iitk.ac.in",
-        "Instructor(s)": "A K SINHA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 15:30-17:00 REQ;",
-        "Title": "MANAGEMENT OF ORGANIZATIONAL BEHAVIOUR",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PSY794A",
-        "Department": "HSS",
-        "Inst. email": "krp@iitk.ac.in",
-        "Instructor(s)": "KUMAR RAVI PRIYA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TF 14:00-15:30 REQ;",
-        "Title": "DISASTER MENTAL HEALTH",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PSY798A",
-        "Department": "HSS",
-        "Inst. email": "shikha@iitk.ac.in",
-        "Instructor(s)": "SHIKHA DIXIT",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TW 12:00-13:30 REQ;",
-        "Title": "ADVANCED COURSE IN SOCIAL COGNITION",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "PSY799",
-        "Department": "HSS",
-        "Inst. email": "arunk@iitk.ac.in",
-        "Instructor(s)": "CONVENOR DPGC",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
         "Schedule": "LEC:",
-        "Title": "PHD THESIS",
-        "Units": "(L-T-P-D-U)         0-0-0-0-0"
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     },
     {
-        "Course No": "SOC473",
-        "Department": "HSS",
-        "Inst. email": "mjha@iitk.ac.in",
-        "Instructor(s)": "M JHA (HSS22)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "INDIAN SOCIETY AND CULTURE",
-        "Units": "(L-T-P-D-U)         3-1-0-0-4"
-    },
-    {
-        "Course No": "SOC473A",
-        "Department": "HSS",
-        "Inst. email": "mjha@iitk.ac.in",
-        "Instructor(s)": "M JHA (HSS22)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: M 11:00-12:00 REQ;ThF 10:00-11:00 REQ;",
-        "Title": "INDIAN SOCIETY AND CULTURE",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "SOC479",
-        "Department": "HSS",
-        "Inst. email": "arunk@iitk.ac.in",
-        "Instructor(s)": "A K SHARMA (HSS23)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
-        "Title": "POPULATION, ECONOMY AND SOCIETY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
-    },
-    {
-        "Course No": "SOC479A",
-        "Department": "HSS",
-        "Inst. email": "arunk@iitk.ac.in",
-        "Instructor(s)": "A K SHARMA (HSS23)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: WThF 11:00-12:00 REQ;",
-        "Title": "POPULATION, ECONOMY AND SOCIETY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "SOC481",
-        "Department": "HSS",
-        "Inst. email": "anindita@iitk.ac.in",
-        "Instructor(s)": "A CHAKRABARTI (HSS21)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
-        "Title": "SOCIETY AND SOCIAL PROBLEMS OF INDIA",
-        "Units": "(L-T-P-D-U)         3-0-0-0-4"
-    },
-    {
-        "Course No": "SOC481A",
-        "Department": "HSS",
-        "Inst. email": "aninditac@iitk.ac.in",
-        "Instructor(s)": "A CHAKRABARTI (HSS21)",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 10:00-11:00 REQ;F 12:00-13:00 REQ;",
-        "Title": "SOCIETY AND SOCIAL PROBLEMS OF INDIA",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "SOC721A",
-        "Department": "HSS",
-        "Inst. email": "mjha@iitk.ac.in",
-        "Instructor(s)": "M JHA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: T 10:30-12:00 REQ;Th 12:00-13:30 REQ;",
-        "Title": "SOCIOLOGICAL THEORY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "SOC745A",
-        "Department": "HSS",
-        "Inst. email": "suraji@iitk.ac.in",
-        "Instructor(s)": "S GOHIN",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TW 12:00-13:30 REQ;",
-        "Title": "SOCIAL THEORY IN LATE TWENTIETH CENTURY",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "SOC750A",
-        "Department": "HSS",
-        "Inst. email": "aninditac@iitk.ac.in",
-        "Instructor(s)": "A CHAKRABARTI",
-        "Pre-requisites": "",
-        "Schedule": "LEC: MW 17:00-18:30 REQ;",
-        "Title": "SOCIOLOGY OF RELIGION",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "SOC752A",
-        "Department": "HSS",
-        "Inst. email": "arunk@iitk.ac.in",
-        "Instructor(s)": "A K SHARMA",
-        "Pre-requisites": "",
-        "Schedule": "LEC: TTh 17:00-18:30 REQ;",
-        "Title": "APPLIED STATISTICS FOR SOCIOLOGISTS AND OTHER",
-        "Units": "(L-T-P-D-U)         3-0-0-0-9"
-    },
-    {
-        "Course No": "SOC799",
-        "Department": "HSS",
-        "Inst. email": "arunk@iitk.ac.in",
-        "Instructor(s)": "CONVENOR DPGC",
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
         "Schedule": "LEC:",
-        "Title": "PHD THESIS",
-        "Units": "(L-T-P-D-U)         0-0-0-0-0"
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     },
     {
-        "Course No": "TA101A",
-        "Department": "ME",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
-        "Schedule": "LEC: T 15:00-16:00 L7;Th 14:00-15:00 L7;",
-        "Title": "ENGINEERING GRAPHICS",
-        "Units": "(L-T-P-D-U)         2-0-3-0-9"
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     },
     {
-        "Course No": "TA201A",
-        "Department": "MSE",
-        "Inst. email": "shashank@iitk.ac.in",
-        "Instructor(s)": "S SHEKHAR",
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
-        "Schedule": "LEC: T 09:00-10:00 L7;",
-        "Title": "MANUFACTURING PROCESSES I",
-        "Units": "(L-T-P-D-U)         1-0-3-0-6"
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     },
     {
-        "Course No": "TA202A",
-        "Department": "ME",
-        "Inst. email": "oars@iitk.ac.in",
-        "Instructor(s)": "OARS",
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
         "Pre-requisites": "",
-        "Schedule": "LEC: T 08:00-09:00 L7;",
-        "Title": "MANUFACTURING PROCESSES II",
-        "Units": "(L-T-P-D-U)         1-0-3-0-6"
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
+    },
+    {
+        "Course No": "PHY599A",
+        "Department": "PHY",
+        "Inst. email": "sagarc@iitk.ac.in",
+        "Instructor(s)": "S CHAKRABORTY",
+        "Pre-requisites": "",
+        "Schedule": "LEC:",
+        "Title": "M.SC.RESEARCH PROJECT II",
+        "Units": "(L-T-P-D-U)         0-0-24-0-27"
     }
 ]
